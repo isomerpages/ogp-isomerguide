@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Sample Pages
+    collection: sample-pages
   - title: Editing Your Page
     collection: editing-your-page
   - title: Example Page
     url: /example-page/
-  - title: Sample Pages
-    collection: sample-pages
