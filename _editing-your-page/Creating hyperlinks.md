@@ -40,3 +40,6 @@ Hyperlinking a picture with a caption. Link opens image in new tab
 	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
 	</figcaption>
 </figure>
+
+
+If you will like to create a hyperlink to a particular section of a page, you can look at [anchors](/anchor).
