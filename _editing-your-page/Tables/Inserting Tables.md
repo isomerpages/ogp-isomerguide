@@ -15,7 +15,25 @@ Clicking on the table icon located within the toolbar will automatically bring u
 <br>| Text     | Text     | Text     | <--- This is the first row 
 </p>
 
-To add additional rows, press enter and insert another row of | Text     | Text     | Text     |
+#### Adding rows	
+To add additional rows, press enter and insert another row of "| Text     | Text     | Text     |" like this:
+<br>
+<p>| Column 1 | Column 2 | Column 3 | 
+<br>| -------- | -------- | -------- | 
+<br>| Text     | Text     | Text     |
+<br>| Text     | Text     | Text     |
+</p>
+
+#### Adding columns
+To add additional columns, insert another "|" after the last of the row, like this:
+<br>
+<p>| Column 1 | Column 2 | Column 3 | Column 4 |
+<br>| -------- | -------- | -------- | -------- |
+<br>| Text     | Text     | Text     | Text     |
+<br>| Text     | Text     | Text     | Text     |
+</p>
+
+Do note that you will have to have the same number of "|" for each row. Otherwise, it will assume that you want the merge the columns for that row.
 
 | Syntax | Description |
 
