@@ -42,4 +42,4 @@ Hyperlinking a picture with a caption. Link opens image in new tab
 </figure>
 
 
-If you will like to create a hyperlink to a particular section of a page, you can look at [anchors](/anchor).
+If you will like to create a hyperlink to a particular section of a page, you can look at [anchors](/editing-your-page/anchor/).
