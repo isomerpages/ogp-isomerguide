@@ -51,11 +51,19 @@ Do note that you will have to have the same number of "|" for each row. Otherwis
 You can align text in the columns to the left, right, or center by adding a colon (:) to the left, right, or on both side of the hyphens within the header row.
 
 <p>
-| Syntax      | Description | Test Text     |
-<br>| :---        |    :----:   |          ---: |
-<br>| Header      | Title       | Here's this   |
-<br>| Paragraph   | Text        | And more      |
+| Header 1 | Header 2 | Header 3 |
+<br>| :--- | :----: | ---: |
+<br>| Text 1A |  Text 2A | Text 3A |
+<br>| Text 1B | Text 2B |  Text 3B |
 </p>
+
+They will look like this:
+
+| Header 1 | Header 2 | Header 3 |
+| :--- | :----: | ---: |
+| Text 1A |  Text 2A | Text 3A |
+| Text 1B | Text 2B |  Text 3B |
+
 
 Do note that our Markdown tables come in a standard format; 
 
@@ -64,8 +72,6 @@ Do note that our Markdown tables come in a standard format; 
     
 
 **
-
-
 
 ## HTML
 
