@@ -4,9 +4,8 @@ permalink: /editing-your-page/insertingtables/
 description: ""
 third_nav_title: Tables
 ---
-
 ## Markdown
-
+![](/images/Toolbar%20(table).png)
 Clicking on the table icon located within the toolbar will automatically bring up a Markdown table within your CMS.
 
 > | Syntax      | Description |
