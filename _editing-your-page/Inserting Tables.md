@@ -7,8 +7,6 @@ description: ""
 
 Clicking on the table icon located within the toolbar will automatically bring up a Markdown table within your CMS.
 
-  
-
 > | Syntax      | Description |
 > | ----------- | ----------- |
 > | Header      | Title       |
