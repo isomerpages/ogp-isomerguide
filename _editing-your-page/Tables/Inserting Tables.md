@@ -8,7 +8,11 @@ third_nav_title: Tables
 
 ![](/images/Toolbar%20(table).png)
 
-Clicking on the table icon located within the toolbar will automatically bring up a Markdown table within your CMS.
+Clicking on the table icon located within the toolbar will automatically bring up a Markdown table within your CMS like this:
+
+<p>| Column 1 | Column 2 | Column 3 | <---This is the header portion, they are automatically bold 
+<br>| -------- | -------- | -------- | <---This 
+<br>| Text     | Text     | Text     |</p>
 
 > | Syntax      | Description |
 > | ----------- | ----------- |
