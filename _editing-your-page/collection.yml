@@ -2,6 +2,7 @@ collections:
   editing-your-page:
     output: true
     order:
+      - Images/Adding Images.md
       - Images/.keep
       - Anchor.md
       - Creating hyperlinks.md
