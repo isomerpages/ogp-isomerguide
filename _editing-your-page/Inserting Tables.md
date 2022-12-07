@@ -56,4 +56,6 @@ Do note that our Markdown tables come in a standard format; 
 ## HTML
 
 
-There are some workarounds if your teachers are untrained in html. There are also some free-to-use html table generator available online such as [https://www.tablesgenerator.com/html\_tables](https://www.tablesgenerator.com/html_tables). Your teachers could paste the table content into the generator, customise the font size, text alignment and table borders etc, generate code and paste them into the CMS editor.
+## I am not familiar with Markdown or HTML, can I still add a table?
+
+There are some workarounds if you are untrained in html. There are also some free-to-use html table generator available online such as [https://www.tablesgenerator.com/](https://www.tablesgenerator.com/). Your teachers could paste the table content into the generator, customise the font size, text alignment and table borders etc, generate code and paste them into the CMS editor.
