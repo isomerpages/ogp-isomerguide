@@ -6,7 +6,12 @@ third_nav_title: Images
 ---
 ## Uploading images 
 
-Isomer is able to host images up to 5 MB. For larger images, you can consider using https://for.edu.sg/ which is able to host up to 10 MB.
+1. Click on Images on the side panel of My Workspace
+2. Click on Upload Image
+3. Select the image from your local drive
+4. Click Upload
+
+Isomer is able to host images ('png', 'jpg', 'gif', 'tif', 'bmp', 'ico', 'svg') up to 5 MB. For larger images, you can consider using https://for.edu.sg/ which is able to host up to 10 MB.
 
 ## Using the image tool (Markdown)
 
@@ -23,4 +28,3 @@ The file name should be populated with the image file name which you had just se
 When you click save, you will notice that the editor area is filled up with "!\[\](/images/filename.png)"
 
 This is actually the Markdown code for images where enclosed within the \[\] is the alternate text and enclosed within the () is the filepath of your images.
-
