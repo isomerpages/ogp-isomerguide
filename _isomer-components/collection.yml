@@ -1,0 +1,4 @@
+collections:
+  isomer-components:
+    output: true
+    order: []
