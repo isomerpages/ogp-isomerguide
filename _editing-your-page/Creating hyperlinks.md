@@ -10,6 +10,7 @@ Inserting hyperlinks
 
 
 ![](/images/Toolbar%20(Link).png)
+
 Clicking on the hyperlink icon will automatically generate a Markdown hyperlink format.
 
 My favorite search engine is \[Duck Duck Go\](https://duckduckgo.com).
