@@ -11,7 +11,7 @@ third_nav_title: Tables
 Clicking on the table icon located within the toolbar will automatically bring up a Markdown table within your CMS like this:
 
 <p>| Column 1 | Column 2 | Column 3 | <--- This is the header portion, they are automatically bold 
-<br>| -------- | -------- | -------- | <--- Cell widths can vary, as shown below. The rendered output will look the same.
+<br>| -------- | -------- | -------- | <--- Cell widths doesn't matter
 <br>| Text     | Text     | Text     | <--- This is the first row 
 </p>
 
@@ -66,7 +66,6 @@ They will look like this:
 
 
 Do note that our Markdown tables come in a standard format; 
-
 *   there are dividers for rows
 *   no dividers for columns even though they are clearly spaced
     
