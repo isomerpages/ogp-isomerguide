@@ -4,6 +4,12 @@ permalink: /editing-your-page/Images/addingimages/
 description: ""
 third_nav_title: Images
 ---
+## Uploading images 
+
+Isomer is able to host images up to 5 MB. For larger images, you can consider using https://for.edu.sg/ which is able to host up to 10 MB.
+
+## Using the image tool (Markdown)
+
 When you click the image icon and it will open up a page Select Image. 
 
 ![](/images/addingimages.png)
@@ -17,3 +23,4 @@ The file name should be populated with the image file name which you had just se
 When you click save, you will notice that the editor area is filled up with "!\[\](/images/filename.png)"
 
 This is actually the Markdown code for images where enclosed within the \[\] is the alternate text and enclosed within the () is the filepath of your images.
+
