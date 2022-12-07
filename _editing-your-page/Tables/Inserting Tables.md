@@ -10,9 +10,10 @@ third_nav_title: Tables
 
 Clicking on the table icon located within the toolbar will automatically bring up a Markdown table within your CMS like this:
 
-<p>| Column 1 | Column 2 | Column 3 | <---This is the header portion, they are automatically bold 
-<br>| -------- | -------- | -------- | <---This 
-<br>| Text     | Text     | Text     |</p>
+<p>| Column 1 | Column 2 | Column 3 | <--- This is the header portion, they are automatically bold 
+<br>| -------- | -------- | -------- | 
+<br>| Text     | Text     | Text     | <--- This is the first row 
+</p>
 
 > | Syntax      | Description |
 > | ----------- | ----------- |
