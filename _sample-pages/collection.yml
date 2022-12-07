@@ -1,0 +1,4 @@
+collections:
+  sample-pages:
+    output: true
+    order: []
