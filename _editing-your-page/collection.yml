@@ -6,5 +6,5 @@ collections:
       - Creating hyperlinks.md
       - Inserting Tables.md
       - folder-page.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Tables/.keep
+      - Tables/subfolder-page.md
