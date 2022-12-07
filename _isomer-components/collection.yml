@@ -2,7 +2,6 @@ collections:
   isomer-components:
     output: true
     order:
-      - Github.md
       - Homepage.md
       - Staging vs Production.md
       - FAQ, Terms of Use and Privacy Statement.md
