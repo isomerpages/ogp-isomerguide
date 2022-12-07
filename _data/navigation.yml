@@ -4,3 +4,5 @@ links:
     collection: editing-your-page
   - title: Example Page
     url: /example-page/
+  - title: Sample Pages
+    collection: sample-pages
