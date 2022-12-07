@@ -1,4 +1,5 @@
 collections:
   isomer-components:
     output: true
-    order: []
+    order:
+      - Staging vs Production.md
