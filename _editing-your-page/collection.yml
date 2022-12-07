@@ -2,6 +2,7 @@ collections:
   editing-your-page:
     output: true
     order:
+      - Creating hyperlinks.md
       - Inserting Tables.md
       - folder-page.md
       - example-subfolder/.keep
