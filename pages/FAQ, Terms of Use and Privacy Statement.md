@@ -9,11 +9,11 @@ The Frequently Asked Questions page serves as a quick self help for the public t
 
 To remove the FAQ link from your footer. 
 1. Go to your Site Settings.
-2. Clear the field in the footer section
-3. Click save at the bottom right hand corner
+2. Look for the Footer section and Faq (optional) field.
+3. Leave this field empty.
+4. Click save at the bottom right hand corner
 
-
-
+You can also change the url of your FAQ here.
 
 ### Terms of Use and Privacy Statement
 
