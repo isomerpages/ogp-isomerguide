@@ -50,14 +50,12 @@ Do note that you will have to have the same number of "|" for each row. Otherwis
 
 You can align text in the columns to the left, right, or center by adding a colon (:) to the left, right, or on both side of the hyphens within the header row.
 
+<p>
 | Syntax      | Description | Test Text     |
-
-| :---        |    :----:   |          ---: |
-
-| Header      | Title       | Here's this   |
-
-| Paragraph   | Text        | And more      |
-
+<br>| :---        |    :----:   |          ---: |
+<br>| Header      | Title       | Here's this   |
+<br>| Paragraph   | Text        | And more      |
+</p>
   
   
 
