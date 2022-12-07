@@ -2,4 +2,5 @@ collections:
   isomer-components:
     output: true
     order:
+      - FAQ, Terms of Use and Privacy Statement.md
       - Staging vs Production.md
