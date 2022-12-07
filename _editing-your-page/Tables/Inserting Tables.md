@@ -56,13 +56,10 @@ You can align text in the columns to the left, right, or center by adding a colo
 <br>| Header      | Title       | Here's this   |
 <br>| Paragraph   | Text        | And more      |
 </p>
-  
-  
 
 Do note that our Markdown tables come in a standard format; 
 
 *   there are dividers for rows
-    
 *   no dividers for columns even though they are clearly spaced
     
 
