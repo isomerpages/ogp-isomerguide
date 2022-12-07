@@ -1,4 +1,5 @@
 collections:
   sample-pages:
     output: true
-    order: []
+    order:
+      - Markdown.md
