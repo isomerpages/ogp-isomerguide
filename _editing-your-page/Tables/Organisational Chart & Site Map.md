@@ -21,7 +21,7 @@ OCCUPANTS OF STY 143
 
 ##### Markdown code
 
-<p>| | | |<br>
+<p style="font-size:10px">| | | |<br>
 |:-:|:-:|:-:|<br>
 |&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|<br>
 |John&lt;br&gt; Pecking Executive&lt;br&gt;john@chickens.com |Patrick&lt;br&gt;Runner&lt;br&gt;patrick@chickens.com|Ronaldo&lt;br&gt;Occupant&lt;br&gt;ronaldo@chickens.com|<br>
