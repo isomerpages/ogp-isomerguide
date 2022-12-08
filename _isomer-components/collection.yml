@@ -2,8 +2,8 @@ collections:
   isomer-components:
     output: true
     order:
-      - Homepage/Infobar and Infopic.md
-      - Homepage/Homepage.md
       - Homepage/.keep
+      - Homepage/Homepage.md
+      - Homepage/Infobar and Infopic.md
       - Staging vs Production.md
       - FAQ, Terms of Use and Privacy Statement.md
