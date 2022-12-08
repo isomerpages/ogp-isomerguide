@@ -17,7 +17,17 @@ OCCUPANTS OF STY 143
 |<img src="/images/chicken.jpg"   style="width:100px; aspect-ratio:1.6/1" /> |   <img src="/images/chicken.jpg"   style="width:100px; aspect-ratio:1.6/1" />  | <img src="/images/chicken.jpg"  style="width:100px; aspect-ratio:1.6/1" />|
 | John<br> Pecking Executive<br>john@chickens.com |Patrick<br>Runner<br>patrick@chickens.com|Ronaldo<br>Occupant<br>ronaldo@chickens.com|
 |<img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" />|<img src="/images/chicken.jpg"  style="width:100px; aspect-ratio:1.6/1" />|<img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" />|
-|Timmy<br>Emotional Support Officer<br>timmyk@chickens.com|Wilson<br>Morning Alarm<br>wilson@chickens.com|Bruno<br>Worm Cleaner<br>bruno@chickens.com| |
+|Timmy<br>Emotional Support Officer<br>timmyk@chickens.com|Wilson<br>Morning Alarm<br>wilson@chickens.com|Bruno<br>Worm Cleaner<br>bruno@chickens.com|
+
+##### Markdown code
+
+<p>| | | |<br>
+|:-:|:-:|:-:|<br>
+|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|<br>
+|John&lt;br&gt; Pecking Executive&lt;br&gt;john@chickens.com |Patrick&lt;br&gt;Runner&lt;br&gt;patrick@chickens.com|Ronaldo&lt;br&gt;Occupant&lt;br&gt;ronaldo@chickens.com|<br>
+|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|&lt;img src="/images/chicken.jpg"  style="width:100px; aspect-ratio:1.6/1" /&gt;|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|<br>
+|Timmy&lt;br&gt;Emotional Support Officer&lt;br&gt;timmyk@chickens.com|Wilson&lt;br&gt;Morning Alarm&lt;br&gt;wilson@chickens.com|Bruno&lt;br&gt;Worm Cleaner&lt;br&gt;bruno@chickens.com|
+</p>
 
 
 ## Site Map
