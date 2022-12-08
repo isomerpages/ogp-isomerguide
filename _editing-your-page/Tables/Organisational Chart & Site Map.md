@@ -10,17 +10,14 @@ A frequently used feature of the table is to create Organisation Charts or site 
 
 #### Markdown
 
-<b><center>ADMINISTRATION WING<br>EXECUTIVE AND ADMINISTRATIVE STAFF</center><b>
+OCCUPANTS OF STY 143
 	
-|                                                                           |                                                                     |                                                    |
-|---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
-|                                     <img src="/images/Senioradminexecutive.jpeg"   style="width:70%" />                                         |                                  <img src="/images/Adminexecutive.jpeg"   style="width:74%" />                                       |                          <img src="/images/Librarian.jpeg"   style="width:78%" />                                   |
-|  **MR SARMIN BIN BASIR**<br> **Senior Admin Executive**<br>Sarmin_BASIR@schools.gov.sg  | **MDM BATHMA D/O KRISHNAN**<br> **Admin Executive**<br> bathma_krishnan@moe.edu.sg  |        **MDM MALLIKA DAKSHINAMURTHY**<br> **Librarian**        |
-|                                     <img src="/images/Operationsupportofficer.jpeg"   style="width:70%" />                                           |                                  <img src="/images/Operationsupportofficer2.jpeg"   style="width:74%" />                                  |                          <img src="/images/Operationssupportofficer3.jpeg"   style="width:78%" />                          |
-|             **MDM INDRADEVI D/O RETINAM**<br>**Operation Support Officer**            |         **MDM NOR FATINI BINTE ALIAS**<br> **Operation Support Officer**        | **MDM NOORMALA BINTE WAHAB**<br> **Operation Support Officer** | |
-	
-
-
+| | | |
+|:-:|:-:|:-:|
+|<img src="/images/chicken.jpg"   style="width:100px; aspect-ratio:1.6/1" /> |   <img src="/images/chicken.jpg"   style="width:100px; aspect-ratio:1.6/1" />  | <img src="/images/chicken.jpg"  style="width:100px; aspect-ratio:1.6/1" />|
+| John<br> Pecking Executive<br>john@chickens.com |Patrick<br>Runner<br>patrick@chickens.com|Ronaldo<br>Occupant<br>ronaldo@chickens.com|
+|<img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" />|<img src="/images/chicken.jpg"  style="width:100px; aspect-ratio:1.6/1" />|<img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" />|
+|Timmy<br>Emotional Support Officer<br>timmyk@chickens.com|Wilson<br>Morning Alarm<br>wilson@chickens.com|Bruno<br>Worm Cleaner<br>bruno@chickens.com| |
 
 
 ## Site Map
