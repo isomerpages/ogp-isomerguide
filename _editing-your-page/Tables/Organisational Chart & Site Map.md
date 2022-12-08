@@ -21,6 +21,8 @@ OCCUPANTS OF STY 143
 
 ##### Markdown code
 
+You can copy below code as a template to create your own organization chart:
+
 <p style="font-size:15px">| | | |<br>
 |:-:|:-:|:-:|<br>
 |&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|<br>
@@ -28,6 +30,12 @@ OCCUPANTS OF STY 143
 |&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|&lt;img src="/images/chicken.jpg"  style="width:100px; aspect-ratio:1.6/1" /&gt;|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|<br>
 |Timmy&lt;br&gt;Emotional Support Officer&lt;br&gt;timmyk@chickens.com|Wilson&lt;br&gt;Morning Alarm&lt;br&gt;wilson@chickens.com|Bruno&lt;br&gt;Worm Cleaner&lt;br&gt;bruno@chickens.com|
 </p>
+
+/images/chicken.jpg refers to the file path of your image. In general, all images are uploaded into the /images folder and you'll only require to change the filename (note the image type .jpg, .gif, .png)
+
+style="width:100px; aspect-ratio:1.6/1" This portion refers to the adjustment made to the image by the browser. I have fixed the width as 100 pixels and the aspect ratio such that when the screen size changes, your images will not be skewed.
+
+John&lt;br&gt; Pecking Executive&lt;br&gt;john@chickens.com refers to the text that is added below the images. You can adjust these accordingly. &lt;br&gt; is a line break to shift the following text onto the next line. 
 
 ## Site Map
 
