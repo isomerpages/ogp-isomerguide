@@ -6,3 +6,4 @@ third_nav_title: Homepage
 ---
 ![](/images/infopic.jpg)
 
+![](/images/infopiclook.jpg)
