@@ -39,51 +39,51 @@ A frequently used feature of the table is to create Organisation Charts or site 
 </thead>
 <tbody>
   <tr>
-    <td><img style="width:100px; aspect-ratio:1" src="/images/maindriveway.jpg"></td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Main Driveway<br></td>
-    <td><img style="width:100px; aspect-ratio:1" src="/images/maindriveway.jpg"></td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Secret Garden</td>
-    <td><img style="width:100px; aspect-ratio:1" src="/images/maindriveway.jpg">
-    </td><td>The Main Mangrove</td>
-    <td>img src="maindriveway" style="width:100px; aspect-ratio:1"&gt;</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
+    <td>The Main Mangrove</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Indoor Sports Hall</td>
   </tr>
   <tr>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Foyer</td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Maths Room</td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Eco-Garden</td>
-    <td>img src="maindriveway" style="width:100px; aspect-ratio:1"&gt;</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Field</td>
   </tr>
   <tr>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Parade Square</td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Science Room</td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Permaculture and<br>Butterfly Garden</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Playground</td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Art Room</td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Experimental Pond</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Canteen</td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Music Room</td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Koi Pond</td>
     <td></td>
     <td></td>
@@ -91,9 +91,9 @@ A frequently used feature of the table is to create Organisation Charts or site 
   <tr>
     <td></td>
     <td></td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>PAL Room</td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Flow Pond</td>
     <td></td>
     <td></td>
@@ -101,9 +101,9 @@ A frequently used feature of the table is to create Organisation Charts or site 
   <tr>
     <td></td>
     <td></td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Library</td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Turtle Pond</td>
     <td></td>
     <td></td>
@@ -111,7 +111,7 @@ A frequently used feature of the table is to create Organisation Charts or site 
   <tr>
     <td></td>
     <td></td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Computer Lab</td>
     <td></td>
     <td></td>
@@ -121,7 +121,7 @@ A frequently used feature of the table is to create Organisation Charts or site 
   <tr>
     <td></td>
     <td></td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Learning Lab</td>
     <td></td>
     <td></td>
@@ -131,7 +131,7 @@ A frequently used feature of the table is to create Organisation Charts or site 
   <tr>
     <td></td>
     <td></td>
-    <td>img src="/images/maindriveway.jpg" style="width:100px; aspect-ratio:1"</td>
+    <td><img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1"></td>
     <td>Dental Clinic</td>
     <td></td>
     <td></td>
@@ -140,3 +140,4 @@ A frequently used feature of the table is to create Organisation Charts or site 
   </tr>
 </tbody>
 </table>
+
