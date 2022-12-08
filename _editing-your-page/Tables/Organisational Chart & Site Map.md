@@ -25,17 +25,17 @@ You can copy below code as a template to create your own organization chart:
 
 <p style="font-size:15px">| | | |<br>
 |:-:|:-:|:-:|<br>
-|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|<br>
-|John&lt;br&gt; Pecking Executive&lt;br&gt;john@chickens.com |Patrick&lt;br&gt;Runner&lt;br&gt;patrick@chickens.com|Ronaldo&lt;br&gt;Occupant&lt;br&gt;ronaldo@chickens.com|<br>
-|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|&lt;img src="/images/chicken.jpg"  style="width:100px; aspect-ratio:1.6/1" /&gt;|&lt;img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" /&gt;|<br>
-|Timmy&lt;br&gt;Emotional Support Officer&lt;br&gt;timmyk@chickens.com|Wilson&lt;br&gt;Morning Alarm&lt;br&gt;wilson@chickens.com|Bruno&lt;br&gt;Worm Cleaner&lt;br&gt;bruno@chickens.com|
+|&lt;img src="<span style="color:orange">/images/chicken.jpg</span>" <span style="color:blue">style="width:100px; aspect-ratio:1.6/1"</span> /&gt;|&lt;img src="<span style="color:orange">/images/chicken.jpg</span>" <span style="color:blue">style="width:100px; aspect-ratio:1.6/1"</span> /&gt;|&lt;img src="<span style="color:orange">/images/chicken.jpg</span>" <span style="color:blue">style="width:100px; aspect-ratio:1.6/1"</span> /&gt;|<br>
+|<span style="color:red">John&lt;br&gt; Pecking Executive&lt;br&gt;john@chickens.com</span>|<span style="color:red">Patrick&lt;br&gt;Runner&lt;br&gt;patrick@chickens.com</span>|<span style="color:red">Ronaldo&lt;br&gt;Occupant&lt;br&gt;ronaldo@chickens.com</span>|<br>
+|&lt;img src="<span style="color:orange">/images/chicken.jpg</span>" <span style="color:blue">style="width:100px; aspect-ratio:1.6/1"</span> /&gt;|&lt;img src="<span style="color:orange">/images/chicken.jpg</span>"  <span style="color:blue">style="width:100px; aspect-ratio:1.6/1"</span> /&gt;|&lt;img src="<span style="color:orange">/images/chicken.jpg</span>" <span style="color:blue">style="width:100px; aspect-ratio:1.6/1"</span> /&gt;|<br>
+|<span style="color:red">Timmy&lt;br&gt;Emotional Support Officer&lt;br&gt;timmyk@chickens.com</span>|<span style="color:red">Wilson&lt;br&gt;Morning Alarm&lt;br&gt;wilson@chickens.com</span>|<span style="color:red">Bruno&lt;br&gt;Worm Cleaner&lt;br&gt;bruno@chickens.com</span>|
 </p>
 
-/images/chicken.jpg refers to the file path of your image. In general, all images are uploaded into the /images folder and you'll only require to change the filename (note the image type .jpg, .gif, .png)
+<span style="color:orange">/images/chicken.jpg refers to the file path of your image. In general, all images are uploaded into the /images folder and you'll only require to change the filename (note the image type .jpg, .gif, .png)</span>
 
-style="width:100px; aspect-ratio:1.6/1" This portion refers to the adjustment made to the image by the browser. I have fixed the width as 100 pixels and the aspect ratio such that when the screen size changes, your images will not be skewed.
+<span style="color:blue">style="width:100px; aspect-ratio:1.6/1" This portion refers to the adjustment made to the image by the browser. I have fixed the width as 100 pixels and the aspect ratio such that when the screen size changes, your images will not be skewed.</span>
 
-John&lt;br&gt; Pecking Executive&lt;br&gt;john@chickens.com refers to the text that is added below the images. You can adjust these accordingly. &lt;br&gt; is a line break to shift the following text onto the next line. 
+<span style="color:red">John&lt;br&gt; Pecking Executive&lt;br&gt;john@chickens.com refers to the text that is added below the images. You can adjust these accordingly. &lt;br&gt; is a line break to shift the following text onto the next line.</span> 
 
 ## Site Map
 
