@@ -8,6 +8,17 @@ A frequently used feature of the table is to create Organisation Charts or site 
 
 ##  Org Chart
 
+#### Markdown
+
+<b><center>ADMINISTRATION WING<br>EXECUTIVE AND ADMINISTRATIVE STAFF</center><b>
+	
+|                                                                           |                                                                     |                                                    |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
+|                                     <img src="/images/Senioradminexecutive.jpeg"   style="width:70%" />                                         |                                  <img src="/images/Adminexecutive.jpeg"   style="width:74%" />                                       |                          <img src="/images/Librarian.jpeg"   style="width:78%" />                                   |
+|  **MR SARMIN BIN BASIR**<br> **Senior Admin Executive**<br>Sarmin_BASIR@schools.gov.sg  | **MDM BATHMA D/O KRISHNAN**<br> **Admin Executive**<br> bathma_krishnan@moe.edu.sg  |        **MDM MALLIKA DAKSHINAMURTHY**<br> **Librarian**        |
+|                                     <img src="/images/Operationsupportofficer.jpeg"   style="width:70%" />                                           |                                  <img src="/images/Operationsupportofficer2.jpeg"   style="width:74%" />                                  |                          <img src="/images/Operationssupportofficer3.jpeg"   style="width:78%" />                          |
+|             **MDM INDRADEVI D/O RETINAM**<br>**Operation Support Officer**            |         **MDM NOR FATINI BINTE ALIAS**<br> **Operation Support Officer**        | **MDM NOORMALA BINTE WAHAB**<br> **Operation Support Officer** | |
+	
 
 
 
