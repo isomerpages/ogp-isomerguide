@@ -4,3 +4,5 @@ permalink: /isomer-components/Homepage/infobarinfopic/
 description: ""
 third_nav_title: Homepage
 ---
+![](/images/infopic.jpg)
+
