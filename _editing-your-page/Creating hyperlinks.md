@@ -10,12 +10,13 @@ Inserting hyperlinks
 
 ![](/images/Toolbar%20(Link).png)
 
-Clicking on the hyperlink icon will automatically generate a Markdown hyperlink format.
+1. Click on the hyperlink icon.
 
 ![](/images/Insert%20Hyperlink.jpg)
 
-A pop up of "Insert hyperlink" with 2 fields, Text and Link, will appear. Text is what you will see on the page while the link is the url that it will be directing to when the user clicks on it.
+2. A pop up of "Insert hyperlink" with 2 fields, Text and Link, will appear. Text is what you will see on the page while the link is the url that it will be directing to when the user clicks on it.
 
+3. After clicking save, a hyperlink in the Markdown format will appear in your editor page.
 
 My favorite search engine is \[Duck Duck Go\](https://duckduckgo.com).
 
