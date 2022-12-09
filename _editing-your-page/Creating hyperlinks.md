@@ -27,6 +27,25 @@ To create a link, enclose the link text in brackets (e.g., \[Duck Duck Go\]) and
 
 ### HTML
 
+Image with hyperlink
+The code we used here is html for images with hyperlink. Html codes are usually characterized by sets of "<" and ">" brackets we call tags. 
+
+Inserting hyperlink
+To insert a hyperlink with html code, we use the <a> tag. We will then direct it to the url by using href attribute:
+
+<a href=" ">
+We would like the link to direct us to https://westwoodpri.moe.edu.sg/qql/slot/u147/Flipping%20Book/Westwood%20Publication%20Flipbook.html#p=1 
+
+<a href="https://westwoodpri.moe.edu.sg/qql/slot/u147/Flipping%20Book/Westwood%20Publication%20Flipbook.html#p=1">
+Next we will add the text or images that we would like to appear on the webpage and enclose it with a closing tag </a>. For e.g. I would like "Click here" to appear on the page. 
+
+<a href="https://westwoodpri.moe.edu.sg/qql/slot/u147/Flipping%20Book/Westwood%20Publication%20Flipbook.html#p=1">Click here</a>
+
+
+To add the hyperlink to images, simply have the whole images tag to be enclosed within the hyperlink tag.
+<a href="https://westwoodpri.moe.edu.sg/qql/slot/u147/Flipping%20Book/Westwood%20Publication%20Flipbook.html#p=1">
+<img style="width:45%" src="/images/joyoflearning.jpg">
+</a>
 
 #### Picture hyperlink: 
 div>
