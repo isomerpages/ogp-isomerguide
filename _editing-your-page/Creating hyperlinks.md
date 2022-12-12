@@ -46,9 +46,12 @@ The code we used here is html for images with hyperlink. Html codes are usually 
 Inserting hyperlink
 To insert a hyperlink with html code, we use the &lt;a&gt; tag. We will then direct it to the url by using href attribute:
 
-<a href="">
-We would like the link to direct us to https://guide.isomer.gov.sg/
-</a><a href="">
+&lt;a href=""&gt;
+
+We would like the link to direct us to https://guide.isomer.gov.sg/. Hence, we will include the URL in between the " ":
+
+&lt;a href="https:&#47;&#47;guide.isomer.gov.sg"&gt;
+
 Next we will add the text or images that we would like to appear on the webpage and enclose it with a closing tag &lt;/a&gt;. For e.g. I would like "Click here" to appear on the page. 
 
 <a href="https://westwoodpri.moe.edu.sg/qql/slot/u147/Flipping%20Book/Westwood%20Publication%20Flipbook.html#p=1">Click here</a>
