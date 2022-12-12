@@ -20,12 +20,14 @@ Instead of a separate CSS file, Isomer uses inline CSS for adjustments of the im
 
 #### Using px (pixel):
 <p>&lt;img src="/images/chicken.jpg"&nbsp;style="width:200px"&gt;</p>
-<img src="/images/chicken.jpg" style ="width:200px"/>
+<center><img src="/images/chicken.jpg" style ="width:200px"/></center>
 
 #### Using % (percentage of original size):
 <p>&lt;img src="/images/chicken.jpg"&nbsp;style="width:50%"&gt;</p>
-<img src="/images/chicken.jpg" style="width:50%">
+<center><img src="/images/chicken.jpg" style="width:50%"></center>
 
 #### Using vw (view width):
 <p>&lt;img src="/images/chicken.jpg" style="width:25vw"&gt;</p>
-<img src="/images/chicken.jpg" style="width:25vw"/>
+<center><img src="/images/chicken.jpg" style="width:25vw"/></center>
+
+You can resize your window to see how the images are resized to fit.
