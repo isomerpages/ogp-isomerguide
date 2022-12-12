@@ -15,13 +15,13 @@ Isomer is able to host images ('png', 'jpg', 'gif', 'tif', 'bmp', 'ico', 'svg') 
 
 ## Using the image tool (Markdown)
 
-When you click the image icon and it will open up a page Select Image. 
+When you click the image icon and it will open up a page Select Image.&nbsp;
 
-<center><img src="/images/addingimages.png" style="width:400px"/></center>
+<center><img style="width:400px" src="/images/addingimages.png"></center>
 
-From here, you can choose the image you have already uploaded or select "Add New" to upload new images. When you have selected your image and click Select, it will move you to the Insert Media page. 
+From here, you can choose the image you have already uploaded or select "Add New" to upload new images. When you have selected your image and click Select, it will move you to the Insert Media page.&nbsp;
 
-<center><img src="/images/Insertmedia.png" style="width:400px"/></center>
+<center><img style="width:400px" src="/images/Insertmedia.png"></center>
 
 The file name should be populated with the image file name which you had just selected and your image should show up at the preview area. Alt text is the text that will appear if your images fails to load and it is optional.
 
@@ -31,17 +31,17 @@ This is actually the Markdown code for images where enclosed within the \[\] is 
 
 ## Using html
 
-Inserting images
-To insert an image with html code, we use the &lt;img&gt; tag. We will then link it to the source of the image by using src attribute:
+Inserting images:<br>
+<ol><li>To insert an image with html code, we use the &lt;img&gt; tag. We will then link it to the source of the image by using src attribute:
+<br>
+<em>&lt;img src=" "&gt;</em></li>
 
-<p>&lt;img src=" "&gt;</p>
+<li>The image is found in the Images folder and named "chicken.jpg", hence, the file path is "/images/chicken.jpg"
+<br>
+<em>&lt;img src="/images/chicken.jpg"&gt;</em></li>
 
-The image is found in the Images folder and named "chicken.jpg", hence, the file path is "/images/chicken.jpg"
+<li>You can also add the style attribute which is seen here to adjust the size of the images to 45% of its original size. (The order doesn't matter, whether src comes first or style comes first)
+<br>
+<em>&lt;img style="width:45%" src="/images/chicken.jpg"&gt;</em></li>
 
-<p>&lt;img src="/images/chicken.jpg"&gt;</p>
-
-You can also add the style attribute which is seen here to adjust the size of the images to 45% of its original size. (The order doesn't matter, whether src comes first or style comes first)
-
-<p>&lt;img style="width:45%" src="/images/chicken.jpg"&gt;</p>
-
-You can read more about html image tags here and also explore the other attributes that you can adjust: https://www.w3schools.com/tags/tag_img.asp
+You can read more about html image tags here and also explore the other attributes that you can adjust: https://www.w3schools.com/tags/tag_img.asp</ol>
