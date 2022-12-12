@@ -34,14 +34,14 @@ This is actually the Markdown code for images where enclosed within the \[\] is 
 Inserting images
 To insert an image with html code, we use the &lt;img&gt; tag. We will then link it to the source of the image by using src attribute:
 
-	&lt;img src=" "&gt;
+<p>&lt;img src=" "&gt;</p>
 
 The image is found in the Images folder and named "chicken.jpg", hence, the file path is "/images/chicken.jpg"
 
-	&lt;img src="/images/chicken.jpg"&gt;
+<p>&lt;img src="/images/chicken.jpg"&gt;</p>
 
 You can also add the style attribute which is seen here to adjust the size of the images to 45% of its original size. (The order doesn't matter, whether src comes first or style comes first)
 
-	&lt;img style="width:45%" src="/images/chicken.jpg"&gt;
+<p>&lt;img style="width:45%" src="/images/chicken.jpg"&gt;</p>
 
 You can read more about html image tags here and also explore the other attributes that you can adjust: https://www.w3schools.com/tags/tag_img.asp
