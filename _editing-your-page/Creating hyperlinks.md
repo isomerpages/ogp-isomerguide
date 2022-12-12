@@ -40,22 +40,26 @@ To create a link, enclose the link text in brackets (e.g., \[Isomer Guide\]) and
 Image with hyperlink
 The code we used here is html for images with hyperlink. Html codes are usually characterized by sets of "&lt;" and "&gt;" brackets we call tags. 
 
-Inserting hyperlink
+<ol><li>Inserting hyperlink
 To insert a hyperlink with html code, we use the &lt;a&gt; tag. We will then direct it to the url by using href attribute:
 
 &lt;a href=""&gt;
+</li>
 
-We would like the link to direct us to https://guide.isomer.gov.sg/. Hence, we will include the URL in between the " ":
+<li>We would like the link to direct us to https://guide.isomer.gov.sg/. Hence, we will include the URL in between the " ":
 
 &lt;a href="https://guide.isomer.gov.sg"&gt;
+</li>
 
-Next we will add the text or images that we would like to appear on the webpage and enclose it with a closing tag &lt;/a&gt;. For e.g. I would like "Click here" to appear on the page. 
+<li>Next we will add the text or images that we would like to appear on the webpage and enclose it with a closing tag &lt;/a&gt;. For e.g. I would like "Click here" to appear on the page. 
 
-&lt;a href="https://guide.isomer.gov.sg"&gt;Click Here&lt;/a&gt;
+&lt;a href="https:&#47;&#47;guide.isomer.gov.sg"&gt;Click Here&lt;/a&gt;
+</li>
 
-On your page, it will look like this:
+<li>On your page, it will look like this:
 
 <a href="https://guide.isomer.gov,.sg/">Click here</a>
+	</li></ol>
 
 #### Picture hyperlink: 
 To add the hyperlink to images, simply have the whole images tag enclosed within the hyperlink tag.
