@@ -10,15 +10,15 @@ Inserting hyperlinks
 
 <center><img style="width:300px" src="/images/Toolbar%20(Link).png"></center>
 
-1. Click on the hyperlink icon.
+<ol><li>Click on the hyperlink icon.</li>
 
 <center><img style="width:300px" src="/images/Insert%20Hyperlink.jpg"></center>
 
-2. A pop up of "Insert hyperlink" with 2 fields, Text and Link, will appear. Text is what you will see on the page while the link is the url that it will be directing to when the user clicks on it.
+<li>A pop up of "Insert hyperlink" with 2 fields, Text and Link, will appear. Text is what you will see on the page while the link is the url that it will be directing to when the user clicks on it.</li>
 
-3. After clicking save, a hyperlink in the Markdown format will appear in your editor page.
+<li>After clicking save, a hyperlink in the Markdown format will appear in your editor page.</li></ol>
 
-##### Markdown format
+<b>Markdown format</b>
 
 The format for markdown hyperlinks goes like this:<br> \[Isomer Guide\](https://guide.isomer.gov.sg).
 
@@ -26,17 +26,16 @@ To create a link, enclose the link text in brackets (e.g., \[Isomer Guide\]) and
 
 #### Picture hyperlink
 
-To create a picture hyperlink, first add the picture following the steps <a href="/editing-your-page/Images/addingimages/">here</a>. Your markdown code should look like this: <br>
+<ol><li>To create a picture hyperlink, first add the picture following the steps <a href="/editing-your-page/Images/addingimages/">here</a>. Your markdown code should look like this: <br>
+!\[\](/images/chicken.jpg)</li>
 
-!\[\](/images/chicken.jpg)
+<li>Next copy and paste this into the Text portion of the hyperlink. After you click save, the hyperlink code shoudl appear to be embeded between the brackets like this:
 
-Next copy and paste this into the Text portion of the hyperlink. After you click save, the hyperlink code shoudl appear to be embeded between the brackets like this:
+[![](/images/chicken.jpg&#41;]&#40;https:&#47;&#47;guide.isomer.gov.sg&#47;&#41;</li>
 
-[![](/images/chicken.jpg&#41;]&#40;https:&#47;&#47;guide.isomer.gov.sg&#47;&#41;
+<li>On your page, it will appear like this:
 
-On your page, it will appear like this:
-
-[![](/images/chicken.jpg)](https://guide.isomer.gov.sg/)
+[![](/images/chicken.jpg)](https://guide.isomer.gov.sg/)</li></ol>
 
 ### HTML
 
