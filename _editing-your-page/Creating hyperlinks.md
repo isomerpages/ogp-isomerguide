@@ -20,11 +20,15 @@ Inserting hyperlinks
 
 ##### Markdown format
 
-The format for markdown hyperlinks goes like this \[Isomer Guide\](https://guide.isomer.gov.sg).
+The format for markdown hyperlinks goes like this:<br> \[Isomer Guide\](https://guide.isomer.gov.sg).
 
 To create a link, enclose the link text in brackets (e.g., \[Isomer Guide\]) and then follow it immediately with the URL in parentheses (e.g., (https://guide.isomer.gov.sg)).
 
 #### Picture hyperlink
+
+To create a picture hyperlink, first add the picture following the steps <a href="/Editing your page/images/adding images/">here</a>. Your markdown code should look like this: <br>
+
+
 
 [![](/images/chicken.jpg)](https://guide.isomer.gov.sg/)
 
