@@ -14,6 +14,18 @@ third_nav_title: Images
 Instead of a separate CSS file, Isomer uses inline CSS for adjustments of the images. (Not important if you don't understand)</p>
 
 <p>This is how a typical image code will look like.</p>
-<p>&lt;img src="/images/filename.jpg" style="width:25%"&gt;</p>
+<p>&lt;img src="/images/filename.jpg"&nbsp;style="width:25%"&gt;</p>
 
 <p>We use the style command to control the attributes (width, height, aspect-ratio etc) of the image. We can fix the attribute using an absolute value like the number of pixels (px), a percentage of the original image size (%) or a percentage of the device frame size (vw, vh).</p>
+
+#### Using px (pixel):
+<p>&lt;img src="/images/chicken.jpg"&nbsp;style="width:100px"&gt;</p>
+<img src="/images/chicken.jpg">
+
+#### Using % (percentage of original size):
+<p>&lt;img src="/images/chicken.jpg"&nbsp;style="width:100px"&gt;</p>
+<img src="/images/chicken.jpg">
+
+#### Using vw (view width):
+<p>&lt;img src="/images/chicken.jpg" style="width:25vw"&gt;</p>
+<img src="/images/chicken.jpg">
