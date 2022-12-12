@@ -54,6 +54,10 @@ We would like the link to direct us to https://guide.isomer.gov.sg/. Hence, we w
 
 Next we will add the text or images that we would like to appear on the webpage and enclose it with a closing tag &lt;/a&gt;. For e.g. I would like "Click here" to appear on the page. 
 
+&lt;a href="https:&#47;&#47;guide.isomer.gov.sg"&gt;Click Here&lt;/a&gt;
+
+On your page, it will look like this:
+
 <a href="https://westwoodpri.moe.edu.sg/qql/slot/u147/Flipping%20Book/Westwood%20Publication%20Flipbook.html#p=1">Click here</a>
 
 
