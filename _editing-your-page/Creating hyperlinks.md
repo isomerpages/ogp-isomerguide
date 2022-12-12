@@ -72,8 +72,7 @@ div&gt;
 <div>
 </div>
 
-
-Hyperlinking a picture with a caption. Link opens image in new tab
+If you would like the link to open in a new tab:
 <figure>
 	<a target="_blank" href="/images/Capture.jpg"> <img style="width:100%" src="/images/Capture.jpg"></a>
 <figcaption>
