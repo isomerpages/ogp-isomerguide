@@ -10,9 +10,9 @@ third_nav_title: Tables
 
 Clicking on the table icon located within the toolbar will automatically bring up a Markdown table within your CMS like this:
 
-<p>| Column 1 | Column 2 | Column 3 | <--- This is the header portion, they are automatically bold 
-<br>| -------- | -------- | -------- | <--- Cell widths doesn't matter
-<br>| Text     | Text     | Text     | <--- This is the first row 
+<p>| Column 1 | Column 2 | Column 3 | <em>This is the header portion, they are automatically bold</em>
+<br>| -------- | -------- | -------- | <em>Cell widths doesn't matter</em>
+<br>| Text     | Text     | Text     | <em>This is the first row</em>
 </p>
 
 #### Adding rows	
@@ -34,17 +34,6 @@ To add additional columns, insert another "|" after the last of the row, like th
 </p>
 
 Do note that you will have to have the same number of "|" for each row. Otherwise, it will assume that you want the merge the columns for that row.
-
-| Syntax | Description |
-
-| --- | ----------- |
-
-| Header | Title |
-
-| Paragraph | Text |
-
-  
-  
 
 ### Alignment
 
