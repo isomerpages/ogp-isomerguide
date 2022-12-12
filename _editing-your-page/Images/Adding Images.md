@@ -42,6 +42,6 @@ Inserting images:<br>
 
 <li>You can also add the style attribute which is seen here to adjust the size of the images to 45% of its original size. (The order doesn't matter, whether src comes first or style comes first)
 <br>
-<em>&lt;img style="width:45%" src="/images/chicken.jpg"&gt;</em></li>
+<em>&lt;img style="width:45%" src="/images/chicken.jpg"&gt;</em></li></ol>
 
 You can read more about html image tags here and also explore the other attributes that you can adjust: https://www.w3schools.com/tags/tag_img.asp</ol>
