@@ -17,11 +17,11 @@ Isomer is able to host images ('png', 'jpg', 'gif', 'tif', 'bmp', 'ico', 'svg') 
 
 When you click the image icon and it will open up a page Select Image. 
 
-![](/images/addingimages.png)
+<center><img src="/images/addingimages.png" style="50vw"/></center>
 
 From here, you can choose the image you have already uploaded or select "Add New" to upload new images. When you have selected your image and click Select, it will move you to the Insert Media page. 
 
-![](/images/Insertmedia.png)
+<center><img src="/images/Insertmedia.png" style="50vw"/></center>
 
 The file name should be populated with the image file name which you had just selected and your image should show up at the preview area. Alt text is the text that will appear if your images fails to load and it is optional.
 
