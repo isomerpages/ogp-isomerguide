@@ -28,7 +28,13 @@ To create a link, enclose the link text in brackets (e.g., \[Isomer Guide\]) and
 
 To create a picture hyperlink, first add the picture following the steps <a href="/Editing your page/images/adding images/">here</a>. Your markdown code should look like this: <br>
 
+!\[\](/images/chicken.jpg)
 
+Next copy and paste this into the Text portion of the hyperlink. After you click save, the hyperlink code shoudl appear to be embeded between the brackets like this:
+
+[![](/images/chicken.jpg&#41;]&#40;https:&#47;&#47;guide.isomer.gov.sg&#47;&#41;
+
+On your page, it will appear like this:
 
 [![](/images/chicken.jpg)](https://guide.isomer.gov.sg/)
 
