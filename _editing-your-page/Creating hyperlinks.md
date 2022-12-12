@@ -72,7 +72,7 @@ For e.g. if you would like &lt;a href="https://guide.isomer.gov.sg"&gt;Click Her
 &lt;a href="https://guide.isomer.gov.sg" target=_blank"&gt;Click Here&lt;/a&gt;
 
 On your page, it will appear like this:
-
+<br>
 <a href="https://guide.isomer.gov,.sg/" target="_blank">Click here</a>
 
 ####  Creating a hyperlink to a particular section
