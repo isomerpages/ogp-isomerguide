@@ -42,18 +42,15 @@ The code we used here is html for images with hyperlink. Html codes are usually 
 
 <b>Inserting hyperlink</b>
 <ol><li>
-To insert a hyperlink with html code, we use the &lt;a&gt; tag. We will then direct it to the url by using href attribute:
-
+To insert a hyperlink with html code, we use the &lt;a&gt; tag. We will then direct it to the url by using href attribute:<br>
 <em>&lt;a href=""&gt;</em>
 </li>
 
-<li>We would like the link to direct us to https&#58;&#47;&#47;guide.isomer.gov.sg/. Hence, we will include the URL in between the " ":
-
+<li>We would like the link to direct us to https&#58;&#47;&#47;guide.isomer.gov.sg/. Hence, we will include the URL in between the " ":<br>
 <em>&lt;a href="https&#58;&#47;&#47;guide.isomer.gov.sg"&gt;</em>
 </li>
 
-<li>Next we will add the text or images that we would like to appear on the webpage and enclose it with a closing tag &lt;/a&gt;. For e.g. I would like "Click here" to appear on the page. 
-
+<li>Next we will add the text or images that we would like to appear on the webpage and enclose it with a closing tag &lt;/a&gt;. For e.g. I would like "Click here" to appear on the page.<br>
 <em>&lt;a href="https&#58;&#47;&#47;guide.isomer.gov.sg"&gt;Click Here&lt;/a&gt;</em>
 </li>
 
