@@ -67,9 +67,9 @@ To add the hyperlink to images, simply have the whole images tag enclosed within
 #### Opening link in a new tab:
 If you would like the link to open in a new tab, you can use the target attribute and set it to _blank.
 
-For e.g. if you would like &lt;a href="https://guide.isomer.gov.sg"&gt;Click Here&lt;/a&gt; to open in a new tab. It will look like this:
+For e.g. if you would like &lt;a href="https&#58;&#47;&#47;guide.isomer.gov.sg"&gt;Click Here&lt;/a&gt; to open in a new tab. It will look like this:
 
-&lt;a href="https://guide.isomer.gov.sg" target=_blank"&gt;Click Here&lt;/a&gt;
+&lt;a href="https&#58;&#47;&#47;guide.isomer.gov.sg" target=_blank"&gt;Click Here&lt;/a&gt;
 
 On your page, it will appear like this:
 <br>
