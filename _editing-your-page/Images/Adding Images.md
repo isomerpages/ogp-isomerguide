@@ -27,7 +27,7 @@ Isomer is able to host images ('png', 'jpg', 'gif', 'tif', 'bmp', 'ico', 'svg') 
 
 <li>When you click save, you will notice that the editor area is filled up with "!\[\](/images/filename.png)"
 
-This is actually the Markdown code for images where enclosed within the \[\] is the alternate text and enclosed within the () is the filepath of your images.</li>
+This is actually the Markdown code for images where enclosed within the \[\] is the alternate text and enclosed within the () is the filepath of your images.</li></ol>
 
 ## Using html
 
@@ -45,3 +45,4 @@ Inserting images:<br>
 <em>&lt;img style="width:45%" src="/images/chicken.jpg"&gt;</em></li></ol>
 
 You can read more about html image tags here and also explore the other attributes that you can adjust: https://www.w3schools.com/tags/tag_img.asp</ol>
+
