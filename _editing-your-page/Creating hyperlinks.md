@@ -8,11 +8,11 @@ Inserting hyperlinks
 
 ### Markdown
 
-<center><img src="/images/Toolbar%20(Link).png" style="width:300px"></center>
+<center><img style="width:300px" src="/images/Toolbar%20(Link).png"></center>
 
 <ol><li>Click on the hyperlink icon.</li>
 
-<center><img src="/images/Insert%20Hyperlink.jpg" style="width:300px"></center>
+<center><img style="width:300px" src="/images/Insert%20Hyperlink.jpg"></center>
 
 <li>A pop up of "Insert hyperlink" with 2 fields, Text and Link, will appear. Text is what you will see on the page while the link is the url that it will be directing to when the user clicks on it.</li>
 
@@ -38,22 +38,23 @@ To create a link, enclose the link text in brackets (e.g., \[Isomer Guide\]) and
 ### HTML
 
 Image with hyperlink
-The code we used here is html for images with hyperlink. Html codes are usually characterized by sets of "&lt;" and "&gt;" brackets we call tags. 
+The code we used here is html for images with hyperlink. Html codes are usually characterized by sets of "&lt;" and "&gt;" brackets we call tags. <br>
 
-<ol><li>Inserting hyperlink
+<b>Inserting hyperlink</b>
+<ol><li>
 To insert a hyperlink with html code, we use the &lt;a&gt; tag. We will then direct it to the url by using href attribute:
 
-&lt;a href=""&gt;
+<em>&lt;a href=""&gt;</em>
 </li>
 
 <li>We would like the link to direct us to https://guide.isomer.gov.sg/. Hence, we will include the URL in between the " ":
 
-&lt;a href="https://guide.isomer.gov.sg"&gt;
+<em>&lt;a href="https://guide.isomer.gov.sg"&gt;</em>
 </li>
 
 <li>Next we will add the text or images that we would like to appear on the webpage and enclose it with a closing tag &lt;/a&gt;. For e.g. I would like "Click here" to appear on the page. 
 
-&lt;a href="https:&#47;&#47;guide.isomer.gov.sg"&gt;Click Here&lt;/a&gt;
+<em>&lt;a href="https://guide.isomer.gov.sg"&gt;Click Here&lt;/a&gt;</em>
 </li>
 
 <li>On your page, it will look like this:
@@ -75,7 +76,7 @@ For e.g. if you would like &lt;a href="https://guide.isomer.gov.sg"&gt;Click Her
 
 On your page, it will appear like this:
 
-<a target="_blank" href="https://guide.isomer.gov,.sg/">Click here</a>
+<a href="https://guide.isomer.gov,.sg/" target="_blank">Click here</a>
 
 ####  Creating a hyperlink to a particular section
 If you will like to create a hyperlink to a particular section of a page, you can look at [anchors](/editing-your-page/anchor/).
