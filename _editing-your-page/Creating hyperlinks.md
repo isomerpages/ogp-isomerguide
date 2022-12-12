@@ -27,10 +27,10 @@ To create a link, enclose the link text in brackets (e.g., \[Isomer Guide\]) and
 #### Picture hyperlink
 
 <ol><li>To create a picture hyperlink, first add the picture following the steps <a href="/editing-your-page/Images/addingimages/">here</a>. Your markdown code should look like this:<br>
-<em>!\[\](/images/chicken.jpg)</em></li>
+<em>&#33;&#91;&#93;&#40;&#47;images&#47;chicken.jpg&#41;</em></li>
 
 <li>Next copy and paste this into the Text portion of the hyperlink. After you click save, the hyperlink code shoudl appear to be embeded between the brackets like this:<br>
-<em>[![](/images/chicken.jpg)](https://guide.isomer.gov.sg/)</em></li>
+<em>&#91;&#33;&#91;&#93;&#40;&#47;images&#47;chicken.jpg&#41;&#93;&#40;https&#58;&#47;&#47;guide.isomer.gov.sg&#41;</em></li>
 
 <li>On your page, it will appear like this:<br>
 [![](/images/chicken.jpg)](https://guide.isomer.gov.sg/)</li></ol>
