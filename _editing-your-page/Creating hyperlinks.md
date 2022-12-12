@@ -58,29 +58,23 @@ Next we will add the text or images that we would like to appear on the webpage 
 
 On your page, it will look like this:
 
-<a href="https://westwoodpri.moe.edu.sg/qql/slot/u147/Flipping%20Book/Westwood%20Publication%20Flipbook.html#p=1">Click here</a>
+<a href="https://guide.isomer.gov,.sg/">Click here</a>
 
 #### Picture hyperlink: 
 To add the hyperlink to images, simply have the whole images tag enclosed within the hyperlink tag.
 
 &lt;a href="https:&#47;&#47;guide.isomer.gov.sg"&gt;&lt;img src="/images/chicken.jpg/"&gt;&lt;/a&gt;
 
-div&gt;
-<div style="float: left">
-<a href="https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross">
-<img style="width:50%" src="/images/red%20cross%20logo.png">
-</a>
-</div>
-<div>
-</div>
+#### Opening link in a new tab:
+If you would like the link to open in a new tab, you can use the target attribute and set it to &#95;blank.
 
-If you would like the link to open in a new tab:
-<figure>
-	<a target="_blank" href="/images/Capture.jpg"> <img style="width:100%" src="/images/Capture.jpg"></a>
-<figcaption>
-	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
-	</figcaption>
-</figure>
+For e.g. if you would like &lt;a href="https:&#47;&#47;guide.isomer.gov.sg"&gt;Click Here&lt;/a&gt; to open in a new tab. It will look like this:
 
+&lt;a href="https:&#47;&#47;guide.isomer.gov.sg" target=&#95;blank"&gt;Click Here&lt;/a&gt;
 
+On your page, it will appear like this:
+
+<a href="https://guide.isomer.gov,.sg/" target="_blank">Click here</a>
+
+####  Creating a hyperlink to a particular section
 If you will like to create a hyperlink to a particular section of a page, you can look at [anchors](/editing-your-page/anchor/).
