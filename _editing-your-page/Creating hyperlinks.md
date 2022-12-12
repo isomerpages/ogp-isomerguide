@@ -18,9 +18,11 @@ Inserting hyperlinks
 
 3. After clicking save, a hyperlink in the Markdown format will appear in your editor page.
 
-My favorite search engine is \[Duck Duck Go\](https://duckduckgo.com).
+##### Markdown format
 
-To create a link, enclose the link text in brackets (e.g., \[Duck Duck Go\]) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).
+The format for markdown hyperlinks goes like this \[Isomer Guide\](https://guide.isomer.gov.sg).
+
+To create a link, enclose the link text in brackets (e.g., \[Isomer Guide\]) and then follow it immediately with the URL in parentheses (e.g., (https://guide.isomer.gov.sg)).
 
 #### Picture hyperlink
   
