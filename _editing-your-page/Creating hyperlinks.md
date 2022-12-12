@@ -26,7 +26,7 @@ To create a link, enclose the link text in brackets (e.g., \[Isomer Guide\]) and
 
 #### Picture hyperlink
 
-To create a picture hyperlink, first add the picture following the steps <a href="/Editing your page/images/adding images/">here</a>. Your markdown code should look like this: <br>
+To create a picture hyperlink, first add the picture following the steps <a href="/editing-your-page/Images/addingimages/">here</a>. Your markdown code should look like this: <br>
 
 !\[\](/images/chicken.jpg)
 
