@@ -61,11 +61,9 @@ On your page, it will look like this:
 <a href="https://westwoodpri.moe.edu.sg/qql/slot/u147/Flipping%20Book/Westwood%20Publication%20Flipbook.html#p=1">Click here</a>
 
 #### Picture hyperlink: 
-To add the hyperlink to images, simply have the whole images tag to be enclosed within the hyperlink tag.
-<a href="https://westwoodpri.moe.edu.sg/qql/slot/u147/Flipping%20Book/Westwood%20Publication%20Flipbook.html#p=1">
-<img src="/images/joyoflearning.jpg" style="width:45%">
-</a>
+To add the hyperlink to images, simply have the whole images tag enclosed within the hyperlink tag.
 
+&lt;a href="https:&#47;&#47;guide.isomer.gov.sg"&gt;&lt;img src="/images/chicken.jpg/"&gt;&lt;/a&gt;
 
 div&gt;
 <div style="float: left">
