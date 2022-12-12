@@ -57,9 +57,7 @@ They will look like this:
 Do note that our Markdown tables come in a standard format; 
 *   there are dividers for rows
 *   no dividers for columns even though they are clearly spaced
-    
 
-**
 
 ## HTML
 
