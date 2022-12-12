@@ -25,7 +25,8 @@ The format for markdown hyperlinks goes like this \[Isomer Guide\](https://guide
 To create a link, enclose the link text in brackets (e.g., \[Isomer Guide\]) and then follow it immediately with the URL in parentheses (e.g., (https://guide.isomer.gov.sg)).
 
 #### Picture hyperlink
-  
+
+[![](/images/chicken.jpg)](https://guide.isomer.gov.sg/)
 
 ### HTML
 
