@@ -47,20 +47,20 @@ To insert a hyperlink with html code, we use the &lt;a&gt; tag. We will then dir
 <em>&lt;a href=""&gt;</em>
 </li>
 
-<li>We would like the link to direct us to https://guide.isomer.gov.sg/. Hence, we will include the URL in between the " ":
+<li>We would like the link to direct us to https&#58;&#47;&#47;guide.isomer.gov.sg/. Hence, we will include the URL in between the " ":
 
-<em>&lt;a href="https://guide.isomer.gov.sg"&gt;</em>
+<em>&lt;a href="https&#58;&#47;&#47;guide.isomer.gov.sg"&gt;</em>
 </li>
 
 <li>Next we will add the text or images that we would like to appear on the webpage and enclose it with a closing tag &lt;/a&gt;. For e.g. I would like "Click here" to appear on the page. 
 
-<em>&lt;a href="https://guide.isomer.gov.sg"&gt;Click Here&lt;/a&gt;</em>
+<em>&lt;a href="https&#58;&#47;&#47;guide.isomer.gov.sg"&gt;Click Here&lt;/a&gt;</em>
 </li>
 
 <li>On your page, it will look like this:
 
 <a href="https://guide.isomer.gov,.sg/">Click here</a>
-	</li></ol>
+</li></ol>
 
 #### Picture hyperlink: 
 To add the hyperlink to images, simply have the whole images tag enclosed within the hyperlink tag.
