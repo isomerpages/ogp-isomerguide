@@ -41,10 +41,14 @@ You can copy below code as a template to create your own organization chart:
 
 |   |   |   |   |
 |---|---|---|---|
+| [![](/images/singaporeflyer.jpeg)](https://www.singaporeflyer.com/en)|[![](/images/singaporeriver.jpg)](https://www.visitsingapore.com/see-do-singapore/places-to-see/singapore-river/)|[![](/images/merlion.jpeg)](https://www.visitsingapore.com/see-do-singapore/recreation-leisure/viewpoints/merlion-park/)|[![](/images/sentosa.jpeg)](https://www.sentosa.com.sg/)|
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
-|   |   |   |   |
+
+
+
+
 
 
 <table>
