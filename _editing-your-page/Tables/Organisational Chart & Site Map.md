@@ -43,6 +43,8 @@ Site maps are created using the table feature of Isomer. We can do so using both
 
 #### Markdown
 
+An example of a site map using 
+
 |   |   |   |   |
 |:---:|:---:|:---:|:---:|
 | [![](/images/singaporeflyer.jpeg)](https://www.singaporeflyer.com/en)|[![](/images/singaporeriver.jpg)](https://www.visitsingapore.com/see-do-singapore/places-to-see/singapore-river/)|[![](/images/merlion.jpeg)](https://www.visitsingapore.com/see-do-singapore/recreation-leisure/viewpoints/merlion-park/)|[![](/images/sentosa.jpeg)](https://www.sentosa.com.sg/)|
