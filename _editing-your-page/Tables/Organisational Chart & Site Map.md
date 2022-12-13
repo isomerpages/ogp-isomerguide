@@ -39,12 +39,14 @@ You can copy below code as a template to create your own organization chart:
 
 ## Site Map
 
+#### Markdown
+
 |   |   |   |   |
 |:---:|:---:|:---:|:---:|
 | [![](/images/singaporeflyer.jpeg)](https://www.singaporeflyer.com/en)|[![](/images/singaporeriver.jpg)](https://www.visitsingapore.com/see-do-singapore/places-to-see/singapore-river/)|[![](/images/merlion.jpeg)](https://www.visitsingapore.com/see-do-singapore/recreation-leisure/viewpoints/merlion-park/)|[![](/images/sentosa.jpeg)](https://www.sentosa.com.sg/)|
 |Singapore<br>Flyer|Singapore <br>River|Merlion<br>Park|Sentosa|
-|[![](/images/gardensbythebay.jpeg)](https://www.gardensbythebay.com.sg/)|[![](/images/laupasat.jpg)](https://laupasat.sg/)|[![](/images/changiairport.jpeg)](https://www.changiairport.com/)||
-|Gardens by<br>the bay|Lau Pa Sat|Changi<br>Airport|   |
+|[![](/images/gardensbythebay.jpeg)](https://www.gardensbythebay.com.sg/)|[![](/images/laupasat.jpg)](https://laupasat.sg/)|[![](/images/changiairport.jpeg)](https://www.changiairport.com/)|[![](/images/esplanade.jpg)](https://www.esplanade.com/)|
+|Gardens by<br>the bay|Lau Pa Sat|Changi<br>Airport|Esplanade|
 
 
 
