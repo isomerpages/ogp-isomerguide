@@ -4,9 +4,9 @@ permalink: /example-folder/example-subfolder/orgchartsitemap/
 third_nav_title: Tables
 description: ""
 ---
-A frequently used feature of the table is to create Organisation Charts or site map. In this page, we will show you how to create these features using a table and provide you with a template to start.
+A frequently used feature of the table is to create Organization Charts or Site Maps. In this page, we will show you how to create these features using a table and provide you with a template to start.
 
-##  Org Chart
+##  Organization Chart
 
 #### Markdown
 
@@ -17,7 +17,7 @@ OCCUPANTS OF STY 143
 |<img src="/images/chicken.jpg"   style="width:100px; aspect-ratio:1.6/1" /> |   <img src="/images/chicken.jpg"   style="width:100px; aspect-ratio:1.6/1" />  | <img src="/images/chicken.jpg"  style="width:100px; aspect-ratio:1.6/1" />|
 | John<br> Pecking Executive<br>john@chickens.com |Patrick<br>Runner<br>patrick@chickens.com|Ronaldo<br>Occupant<br>ronaldo@chickens.com|
 |<img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" />|<img src="/images/chicken.jpg"  style="width:100px; aspect-ratio:1.6/1" />|<img src="/images/chicken.jpg" style="width:100px; aspect-ratio:1.6/1" />|
-|Timmy<br>Emotional Support Officer<br>timmyk@chickens.com|Wilson<br>Morning Alarm<br>wilson@chickens.com|Bruno<br>Worm Cleaner<br>bruno@chickens.com|
+|Timmy<br>Emotional Support Officer<br>timmyk@chickens.com|Wilson<br>Morning Alarm<br>wilson@chickens.com|Bruno<br>Worm Cleaner<br>|
 
 ##### Markdown code
 
