@@ -39,7 +39,7 @@ You can copy below code as a template to create your own organization chart:
 
 ## Site Map
 
-Site maps are created using the table feature of Isomer. We can do so using both Markdown and html. While Markdown is more readable, it does not allow for resizing of the images after the image is uploaded.
+Site maps are created using the table feature of Isomer. We can do so using both Markdown and html. While Markdown is more readable, it does not allow for resizing of the images after the image is uploaded. This would mean that you will need to crop the images to the same size before uploading them or they will appear messy in the site map.
 
 #### Markdown
 
