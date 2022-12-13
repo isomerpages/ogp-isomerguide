@@ -6,7 +6,7 @@ third_nav_title: Tables
 ---
 ## Markdown
 
-![](/images/Toolbar%20(table).png)
+<img src="/images/Toolbar%20(table).png" style="width:60%">
 
 Clicking on the table icon located within the toolbar will automatically bring up a Markdown table within your CMS like this:
 
