@@ -39,19 +39,12 @@ You can copy below code as a template to create your own organization chart:
 
 ## Site Map
 
-|   | Common Spaces |   | Special Rooms &amp; eco-Environment Learning Spaces |   |                                   |   | Sport Facilities   |
-|---|---------------|---|-------------------------------------------------|---|-----------------------------------|---|--------------------|
-|   | Main Driveway |   | Secret Garden                                   |   | The Main Mangrove                 |   | Indoor Sports Hall |
-|   | Foyer         |   | Maths Room                                      |   | Eco-Garden                        |   | Field              |
-|   | Parade Square |   | Science Room                                    |   | Permaculture and Butterfly Garden |   |                    |
-|   | Playground    |   | Art Room                                        |   | Experimental Pond                 |   |                    |
-|   | Canteen       |   | Music Room                                      |   | Koi Pond                          |   |                    |
-|   |               |   | PAL Room                                        |   | Flow Pond                         |   |                    |
-|   |               |   | Library                                         |   | Turtle Pond                       |   |                    |
-|   |               |   | Computer Lab                                    |   |                                   |   |                    |
-|   |               |   | Learning Lab                                    |   |                                   |   |                    |
-|   |               |   | Dental Clinic                                   |   |                                   |   |                    |
-
+|   |   |   |   |
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 
 <table>
