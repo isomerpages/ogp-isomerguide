@@ -17,8 +17,6 @@ Clicking on the table icon located within the toolbar will automatically bring u
 <br>Cell widths doesn't matter<br>
 This is the first row</em></td></tr></tbody></table>
 
-
-
 <p>| Column 1 | Column 2 | Column 3 | <em>This is the header portion, they are automatically bold</em>
 <br>| -------- | -------- | -------- | <em>Cell widths doesn't matter</em>
 <br>| Text     | Text     | Text     | <em>This is the first row</em>
