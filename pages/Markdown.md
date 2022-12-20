@@ -25,8 +25,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis, ligula
 
 > Quoted text
 
-#### Heading level 4
+#### Bullets and Numbering (Heading level 4)
+
+* Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+* Orci varius natoque penatibus et magnis.
+* Integer pretium neque urna, ac tincidunt ex pretium sollicitudin. Donec.
+
+1. Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+2. Orci varius natoque penatibus et magnis.
+3. Integer pretium neque urna, ac tincidunt ex pretium sollicitudin. Donec.
+
+##### Images (Heading level 5)
 
 ![chicken](/images/chicken.jpg)
-
-##### Heading level 5
