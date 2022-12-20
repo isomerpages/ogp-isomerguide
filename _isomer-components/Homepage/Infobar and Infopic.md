@@ -11,9 +11,8 @@ The main difference between Infobar and Infopic is that Infopic allows for the a
 Infobar example:
 
 Infopic example:
-![](/images/infopiclook.jpg)
+<center><img src="/images/infopiclook.jpg" style="width:50%"></center>
 
 #### How to create an additional section of Infobar/Infopic:
 
-![](/images/infopic.jpg)
-
+<center><img src="/images/infopic.jpg" style="width:50%"></center>
