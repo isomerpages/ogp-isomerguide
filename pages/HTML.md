@@ -21,4 +21,4 @@ description: ""
 <sub>Subscript text</sub><br>
 <sup>Superscript text</sup>
 
-<span style="font-size:40px">You </span><span style="font-size:50px">can </span><span style="font-size:20px">also </span><span style="font-size:60px">choose </span><span style="font-size:60px">different </span><span style="font-size:40px">font size</span><span style="font-size:20px"> and colour.</span>
+<span style="font-size:40px;color:red">You </span><span style="font-size:50px">can </span><span style="font-size:20px;color:purple">also </span><span style="font-size:60px;color:green">choose </span><span style="font-size:60px;color:pink">different </span><span style="font-size:40px;color:grey">font size</span><span style="font-size:20px; color:blue"> and colour.</span>
