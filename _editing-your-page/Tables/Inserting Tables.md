@@ -40,7 +40,7 @@ To add additional columns, insert another "|" after the last of the row, like th
 <br>| Text     | Text     | Text     | Text     |
 </p>
 
-Do note that you will have to have the same number of "&#124;" for each row. Otherwise, it will assume that you want the merge the columns for that row.
+Do note that you will have to have the same number of "&#124;" for each row. 
 
 ### Alignment
 
