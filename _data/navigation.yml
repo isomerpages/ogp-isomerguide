@@ -1,10 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Migration Journey
+    url: /migrationjourney/
   - title: Sample Pages
     collection: sample-pages
   - title: Editing Your Page
     collection: editing-your-page
   - title: Example Page
     url: /example-page/
-  - title: Migration Journey
-    url: /migrationjourney/
