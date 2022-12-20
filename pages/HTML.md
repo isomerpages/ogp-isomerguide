@@ -7,7 +7,7 @@ description: ""
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis, ligula porttitor bibendum pellentesque, sem velit suscipit sem, sed finibus est magna et felis. Curabitur pharetra id justo sodales finibus. Ut placerat diam non augue sagittis congue. Vestibulum ut elementum nibh. Nulla facilisi. Phasellus non ante nisi. In sit amet.
 
-<h2> Tables: (Heading level 2) </h2>
+<h2>Tables: (Heading level 2) </h2>
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
@@ -29,7 +29,7 @@ Superscript<sup>text</sup><br>
 <del>Deleted text</del><br>
 <ins>Inserted text</ins><br>
 
-#### Bullets and Numbering (Heading level 4)
+<h4>Bullets and Numbering (Heading level 4)</h4>
 
 * Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
 * Orci varius natoque penatibus et magnis.
