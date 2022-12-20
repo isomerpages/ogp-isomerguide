@@ -18,9 +18,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis, ligula
 
 <h3> Font types (Heading level 3) </h3>
 
-**Bold text**
-
-*Italic text*
+<b>Bold text</b><br>
+<em>Italic text</em><br>
 
 ~~Strikethrough Text~~
 
