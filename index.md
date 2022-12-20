@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Isomer Site Creation Help
+      title: Isomer Cheatsheet
       subtitle: This is a quick self help guide for Isomer site creation. If you
         noticed any errors or issues that are not addressed, please contact us
         using the button below.
