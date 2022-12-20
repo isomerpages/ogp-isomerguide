@@ -7,8 +7,7 @@ description: ""
 
 <center>Centered text</center>
 
-Text wrapped around image
-
+Text wrapped around image:
 <div>
 <div style="float: left">
 <img style="width:200px" src="/images/chicken.jpg">
