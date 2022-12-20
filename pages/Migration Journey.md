@@ -21,11 +21,3 @@ To make the process as seamless as possible, there are things that you can start
 3.  Transfers your photo galleries onto Google Slides. As Isomer is unable to host other photo galleries/slideshow other than Google Slides. You can start to have these changed to Google Slide instead. Once that that is done, we can embed the Google slides onto the page as a photo slideshow.
 4.  Host flipbooks away from your current website. We are unable to host flipbooks on isomer but we can provide a hyperlink to the Flipbook itself. However, if the flipbook is hosted on your existing website, it will also go down on the day of the site launch.
 5.  Once you have provided us with your Github IDs, I will provide access to the CMS so that you can explore the features available. As the school will have to maintain the website such as updating of its content once the website is launched, we would encourage your team to familiarise yourself with Isomer as soon as possible. You can also visit our online guide to have a better understanding of Isomer: [https://guide.isomer.gov.sg](https://guide.isomer.gov.sg) 
-
-We have some schools who have launched already and you can also take a look at their website:
-
-[https://www.bendemeerpri.moe.edu.sg/](https://www.bendemeerpri.moe.edu.sg/)
-
-[https://bendemeersec.moe.edu.sg/](https://bendemeersec.moe.edu.sg/)
-
-[https://www.waterwaypri.moe.edu.sg/](https://www.waterwaypri.moe.edu.sg/)
