@@ -19,11 +19,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis, ligula
 <h3> Font types (Heading level 3) </h3>
 
 <b>Bold text</b><br>
-<em>Italic text</em><br>
+<i>italic text</i><br>
+<strong>Important text</strong><br>
+<em>Emphasized text</em><br>
+<mark>Marked text </mark><br>
+Subscript<sub> text</sub><br>
+Superscript<sup>text</sup>
 
-~~Strikethrough Text~~
 
-> Quoted text
+<b> - Bold text
+
+<i> - Italic text
+<em> - Emphasized text
+
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+
 
 #### Bullets and Numbering (Heading level 4)
 
