@@ -5,9 +5,9 @@ description: ""
 ---
 <h1> Normal Text (Heading level 1) </h1>
 
-Font family:
-<div style="font-family:verdana">This is Verdana font</div>
-<div style="font-family:Times New Roman">This is Times New Roman font</div>
+<u>Font family:</u><br>
+<span style="font-family:verdana">This is Verdana font</span><br>
+<span style="font-family:Times New Roman">This is Times New Roman font</span>
 
 <u>Text Formatting:<br></u>
 <b>Bold text</b><br>
@@ -20,3 +20,5 @@ Font family:
 <ins>Inserted text</ins><br>
 <sub>Subscript text</sub><br>
 <sup>Superscript text</sup>
+
+<span style="font-size:40px">You </span><span style="font-size:50px">can </span><span style="font-size:20px">also </span><span style="font-size:60px">choose </span><span style="font-size:60px">different </span><span style="font-size:30px">font size and colour.</span>
