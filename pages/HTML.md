@@ -41,4 +41,4 @@ Superscript<sup>text</sup><br>
 
 ##### Images (Heading level 5)
 
-![chicken](/images/chicken.jpg)
+<center><img src="/images/chicken.jpg" style="width:50%"></center>
