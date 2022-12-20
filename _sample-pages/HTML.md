@@ -6,7 +6,6 @@ description: ""
 <h1> Normal Text (Heading level 1) </h1>
 
 <center>Centered text</center>
-
 Text wrapped around image:
 <div>
 <div style="float: left">
