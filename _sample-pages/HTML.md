@@ -7,7 +7,17 @@ description: ""
 
 <center>Centered text</center>
 
-Text divided into different sections
+Text wrapped around image
+
+<div>
+<div style="float: left">
+<img style="width:200px" src="/images/chicken.jpg">
+</div>
+<div>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed ipsum leo. Nulla mattis elementum ex a fermentum. Aliquam et nisl et tellus sollicitudin vestibulum non vitae quam. Ut ultrices nibh non egestas volutpat. Donec faucibus vel orci sit amet sodales. Curabitur consectetur, orci a mollis venenatis, ante massa pellentesque nisl, ac sagittis est diam et dui. Duis varius vulputate orci, vitae semper arcu pharetra id. Sed porttitor diam in neque ornare, vel fringilla lectus suscipit. Fusce at mauris massa.
+</div></div>
+
+
 
 <h2>Tables: (Heading level 2)</h2>
 
