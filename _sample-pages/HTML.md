@@ -35,13 +35,17 @@ Text divided into different sections
 
 <h4>Bullets and Numbering (Heading level 4)</h4>
 
-Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
-Orci varius natoque penatibus et magnis.
-Integer pretium neque urna, ac tincidunt ex pretium sollicitudin. Donec.
+<ol>
+<li>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...</li>
+<li>Orci varius natoque penatibus et magnis.</li>
+<li>Integer pretium neque urna, ac tincidunt ex pretium sollicitudin. Donec.</li>
+	</ol>
 
-Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
-Orci varius natoque penatibus et magnis.
-Integer pretium neque urna, ac tincidunt ex pretium sollicitudin. Donec.
+<ul>
+<li>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...</li>
+<li>Orci varius natoque penatibus et magnis.</li>
+<li>Integer pretium neque urna, ac tincidunt ex pretium sollicitudin. Donec.</li>
+</ul>
 
 <h5>Images (Heading level 5)</h5>
 
