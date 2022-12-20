@@ -24,18 +24,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis, ligula
 <em>Emphasized text</em><br>
 <mark>Marked text </mark><br>
 Subscript<sub> text</sub><br>
-Superscript<sup>text</sup>
-
-
-<b> - Bold text
-
-<i> - Italic text
-<em> - Emphasized text
-
-<small> - Smaller text
-<del> - Deleted text
-<ins> - Inserted text
-
+Superscript<sup>text</sup><br>
+<small>Smaller text</small><br>
+<del>Deleted text</del><br>
+<ins>Inserted text</ins><br>
 
 #### Bullets and Numbering (Heading level 4)
 
