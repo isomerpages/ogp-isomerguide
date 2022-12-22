@@ -19,9 +19,8 @@ Infopic example:
 <div>
 <div style="float: left; padding:20px">
 <img src="/images/addanewsection.png" style="width:100px"></div>
-<div><ol><li>Click on Add a new section</li>
-	<li>Choose the type of section you will like.</li>
-	<li>Click Select.</li></ol></div></div>
+<div>1. Click on Add a new section<br>2. Choose the type of section you will like.<br>
+3.Click Select.</div></div>
 
 
 ##### Infobar:
@@ -38,7 +37,6 @@ You can embed Google slideshow or Youtube videos in your Homepage using the Info
 <div style="float: left; padding:20px">
 <img src="/images/infobar.jpeg" style="width:100px">
 </div><div>
-<ol><li>Copy the html embedding code of your Google Slideshow or Youtube video</li>
-<li>Paste it into the "Infobar Description" field of your Infobar Section</li>
-<li>Click Save</li></ol>
+1. Copy the html embedding code of your Google Slideshow or Youtube video<br>
+2. Paste it into the "Infobar Description" field of your Infobar Section<br>3. Click Save
 </div></div>
