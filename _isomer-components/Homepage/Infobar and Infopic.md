@@ -15,8 +15,13 @@ Infopic example:
 <center><img src="/images/infopiclook.jpg" style="width:50%"></center>
 
 #### How to create an additional section of Infobar/Infopic:
+<div>
+<div style="float: left">
+<img src="/images/addanewsection.png" style="width:100px"></div>
+<div><ol><li>Click on Add a new section</li>
+	<li>Choose the type of section you will like.</li>
+	<li>Click Select.</li></ol></div></div>
 
-Click on 
 
 ##### Infobar:
 <center><img src="/images/infobar.jpeg" style="width:100px"></center>
