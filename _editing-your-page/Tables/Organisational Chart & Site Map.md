@@ -52,6 +52,15 @@ An example of a site map using Markdown:
 |[![](/images/gardensbythebay.jpeg)](https://www.gardensbythebay.com.sg/)|[![](/images/laupasat.jpg)](https://laupasat.sg/)|[![](/images/changiairport.jpeg)](https://www.changiairport.com/)|[![](/images/esplanade.jpg)](https://www.esplanade.com/)|
 |Gardens by<br>the bay|Lau Pa Sat|Changi<br>Airport|Esplanade|
 
+Example code:
+
+&#124;   &#124;   &#124;   &#124;   &#124;<br>
+&#124;:---:&#124;:---:&#124;:---:&#124;:---:&#124;<br>
+&#124; &#91;&#33;&#91;&#93;&#40;&#47;images&#47;Image1.jpeg&#41;&#93;&#40;https:&#47;&#47;URL1&#47;&#41;&#124;&#91;&#33;&#91;&#93;&#40;&#47;images&#47;Image2.jpg&#41;&#93;&#40;https:&#47;&#47;URL2&#47;&#41;&#124;&#91;&#33;&#91;&#93;&#40;&#47;images&#47;Image3.jpeg&#41;&#93;&#40;https:&#47;&#47;URL3&#47;&#41;&#124;&#91;&#33;&#91;&#93;&#40;&#47;images&#47;Image4.jpeg&#41;&#93;&#40;https:&#47;&#47;URL4&#47;&#41;&#124;<br>
+&#124;Text1&#124;Text2&#124;Text3&#124;Text4&#124;
+&#124;&#91;&#33;&#91;&#93;&#40;&#47;images&#47;Image5.jpeg&#41;&#93;&#40;https:&#47;&#47;URL5&#47;&#41;&#124;&#91;&#33;&#91;&#93;&#40;&#47;images&#47;Image6.jpg&#41;&#93;&#40;https:&#47;&#47;URL6&#47;&#41;&#124;&#91;&#33;&#91;&#93;&#40;&#47;images&#47;Image7.jpeg&#41;&#93;&#40;https:&#47;&#47;URL7&#47;&#41;&#124;&#91;&#33;&#91;&#93;&#40;&#47;images&#47;Image8.jpg&#41;&#93;&#40;https:&#47;&#47;URL8&#47;&#41;&#124;<br>
+&#124;Text5&#124;Text6&#124;Text7&#124;Text8&#124;
+
 
 An example of a Site Map using html:
 
