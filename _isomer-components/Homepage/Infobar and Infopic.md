@@ -16,7 +16,7 @@ Infopic example:
 
 #### How to create an additional section of Infobar/Infopic:
 <div>
-<div style="float: left">
+<div style="float: left; padding:20px">
 <img src="/images/addanewsection.png" style="width:100px"></div>
 <div><ol><li>Click on Add a new section</li>
 	<li>Choose the type of section you will like.</li>
@@ -34,7 +34,7 @@ Infopic example:
 You can embed Google slideshow or Youtube videos in your Homepage using the Infobar option.
 
 <div>
-<div style="float: left">
+<div style="float: left; padding:20px">
 <img src="/images/infobar.jpeg" style="width:100px">
 </div><div>
 <ol><li>Copy the html embedding code of your Google Slideshow or Youtube video</li>
