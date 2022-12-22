@@ -9,6 +9,7 @@ Infobar and Infopic are sections of your Homepage which you might like to use to
 The main difference between Infobar and Infopic is that Infopic allows for the addition of one image within the section.
 
 Infobar example:
+<center><img src="/images/infobarexample.jpeg" style="width:50%"></center>
 
 Infopic example:
 <center><img src="/images/infopiclook.jpg" style="width:50%"></center>
