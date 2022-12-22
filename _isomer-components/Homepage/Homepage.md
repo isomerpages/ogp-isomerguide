@@ -10,7 +10,7 @@ third_nav_title: Homepage
 
 ### Hero Section:
 <div>
-<div style="float: left">
+<div style="float: left; padding:20px">
 <img src="/images/HeroSection.jpeg" style="width:50%;">
 </div><div>
 You can change the Title and Subtitle under the hero section of your homepage.<br><br>
