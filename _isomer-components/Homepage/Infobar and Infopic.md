@@ -19,7 +19,8 @@ Infopic example:
 <div>
 <div style="float: left; padding:20px">
 <img src="/images/addanewsection.png" style="width:100px"></div>
-<div>1. Click on Add a new section<br>2. Choose the type of section you will like.<br>
+<div>1. Click on Add a new section<br><br>
+2. Choose the type of section you will like.<br><br>
 3. Click Select.</div></div>
 
 
