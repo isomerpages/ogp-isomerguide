@@ -52,7 +52,9 @@ An example of a site map using Markdown:
 |[![](/images/gardensbythebay.jpeg)](https://www.gardensbythebay.com.sg/)|[![](/images/laupasat.jpg)](https://laupasat.sg/)|[![](/images/changiairport.jpeg)](https://www.changiairport.com/)|[![](/images/esplanade.jpg)](https://www.esplanade.com/)|
 |Gardens by<br>the bay|Lau Pa Sat|Changi<br>Airport|Esplanade|
 
-Example code:
+<u>Example code</u>:<br>
+You can copy below code as a template to create your own organization chart:
+
 
 &#124;   &#124;   &#124;   &#124;   &#124;<br>
 &#124;:---:&#124;:---:&#124;:---:&#124;:---:&#124;<br>
