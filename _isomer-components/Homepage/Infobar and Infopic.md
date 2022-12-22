@@ -16,6 +16,8 @@ Infopic example:
 
 #### How to create an additional section of Infobar/Infopic:
 
+##### Infobar:
+<center><img src="/images/infobar.jpeg" style="width:100px"></center>
 
 ##### Infopic:
 <center><img src="/images/infopic.jpg" style="width:100px"></center>
