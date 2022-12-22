@@ -36,7 +36,8 @@ You can embed Google slideshow or Youtube videos in your Homepage using the Info
 <div>
 <div style="float: left; padding:20px">
 <img src="/images/infobar.jpeg" style="width:100px">
-</div><div>
-1. Copy the html embedding code of your Google Slideshow or Youtube video<br>
-2. Paste it into the "Infobar Description" field of your Infobar Section<br>3. Click Save
+</div><div><br>
+1. Copy the html embedding code of your Google Slideshow or Youtube video<br><br>
+2. Paste it into the "Infobar Description" field of your Infobar Section<br><br>
+3. Click Save
 </div></div>
