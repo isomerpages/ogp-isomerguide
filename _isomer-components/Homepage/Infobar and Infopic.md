@@ -17,3 +17,12 @@ Infopic example:
 #### How to create an additional section of Infobar/Infopic:
 
 <center><img src="/images/infopic.jpg" style="width:50%"></center>
+
+#### Embedding of Google slides / Youtube video in your Homepage
+
+You can embed Google slideshow or Youtube videos in your Homepage using the Infobar option.
+
+1. Copy the html embedding code of your Google Slideshow or Youtube video
+2. Paste it into the "Infobar Description" field of your Infobar Section
+3. Click Save
+
