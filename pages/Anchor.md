@@ -3,6 +3,7 @@ title: Anchor
 permalink: /editing-your-page/anchor/
 description: ""
 ---
+Anchor is an element that allows a user to be directed to a particular section of a page. An anchor will be particularly useful if the page is long and you'll like to reduce the amount of scrolling the user have to do before arriving at a section.
 
 **\[Word that will appear on site\](#word that website will look for):
 
