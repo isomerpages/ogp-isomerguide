@@ -1,0 +1,12 @@
+collections:
+  editing-your-page:
+    output: true
+    order:
+      - Images/.keep
+      - Images/Adding Images.md
+      - Images/Adjusting images.md
+      - Images/Photo Slideshow.md
+      - Creating hyperlinks.md
+      - Tables/Inserting Tables.md
+      - Tables/.keep
+      - Tables/Organisational Chart & Site Map.md
