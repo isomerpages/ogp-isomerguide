@@ -3,7 +3,6 @@ title: FAQ, Terms of Use and Privacy Statement
 permalink: /faq-termsofuse-privacy/
 description: ""
 ---
-
 ### Frequently Asked Questions 
 
 The Frequently Asked Questions page serves as a quick self help for the public to have the usual questions answered. This page is entirely optional. 
@@ -29,6 +28,6 @@ The default page URL for Terms of Use is "/terms-of-use/"
 
 #### PRIVACY STATEMENT
 
-The school may refer to the [gov.sg | Privacy Statement (www.gov.sg)](https://www.gov.sg/privacy-statement) as reference. The school may wish to change the names to the school and to MOE accordingly.
+The school may refer to the [Privacy Statement (www.gov.sg)](https://www.gov.sg/privacy-statement) as reference. The school may wish to change the names to the school and to MOE accordingly.
 
 The default page URL for Privacy Statement is "/privacy/".
