@@ -16,7 +16,9 @@ Infopic example:
 
 #### How to create an additional section of Infobar/Infopic:
 
-<center><img src="/images/infopic.jpg" style="width:50%"></center>
+
+##### Infopic:
+<center><img src="/images/infopic.jpg" style="width:100px"></center>
 
 #### Embedding of Google slides / Youtube video in your Homepage
 
