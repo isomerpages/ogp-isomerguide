@@ -43,7 +43,7 @@ Site maps are created using the table feature of Isomer. We can do so using both
 
 #### Markdown
 
-An example of a site map using 
+An example of a site map using Markdown:
 
 |   |   |   |   |
 |:---:|:---:|:---:|:---:|
@@ -53,7 +53,7 @@ An example of a site map using
 |Gardens by<br>the bay|Lau Pa Sat|Changi<br>Airport|Esplanade|
 
 
-
+An example of a Site Map using html:
 
 
 
