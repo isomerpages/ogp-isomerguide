@@ -10,7 +10,7 @@ third_nav_title: Images
 
 ## HTML
 
-<p>Hence, if you require to have adjustments done after you have uploaded the image, you will need to use html code instead.
+<p>Hence, if you require to adjust your the image size, you will need to use html code instead.
 Instead of a separate CSS file, Isomer uses inline CSS for adjustments of the images. (Not important if you don't understand)</p>
 
 <p>This is how a typical image code will look like.</p>
