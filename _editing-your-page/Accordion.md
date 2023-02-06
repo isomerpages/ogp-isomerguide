@@ -53,7 +53,7 @@ description: ""
 <div><h2>How to add Accordion to my page?</h2>
 <ol>
 <li><b><u>Enabling Accordion on the schools site</u></b><br><br>
-Schools would need to first inform us to enable it on their site.  (If you have Accordion on other pages, it means that it is already enabled.)</li><br>
+Schools would need to first inform us to enable it on their site. &#40;If you have Accordion on other pages, it means that it is already enabled.&#41;</li><br>
 
 <li><b><u>Starting Accordion on the page</u></b><br><br>
 Next, on the page that you will like to add Accordion, insert <mark>&#60;ul class&#61;"jekyllcodex_accordion"&#62;</mark> to start the accordion code.</li><br>
