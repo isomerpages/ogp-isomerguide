@@ -6,11 +6,11 @@ third_nav_title: Images
 ---
 ## Markdown
 
-<p>For images added using Markdown, we are unable to adjust the images after they have been uploaded. If you prefer to use Markdown, you will need to adjust the images to the correct size before uploading and adding them in.</p>
+<p>For images added using Markdown, we are unable to adjust the images sizes.</p>
 
 ## HTML
 
-<p>Hence, if you require to have adjustments done after you have uploaded the image, you will need to use html code instead.
+<p>Hence, if you require to adjust your the image size, you will need to use html code instead.
 Instead of a separate CSS file, Isomer uses inline CSS for adjustments of the images. (Not important if you don't understand)</p>
 
 <p>This is how a typical image code will look like.</p>
