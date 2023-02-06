@@ -47,7 +47,7 @@ Repeat steps 3-5 for additional accordion items (note that # must be a unique nu
 
 <li><strong><u>Closing Accordion on the page</strong></u><br><br>
 Finally to close the Accordion code, insert <mark>&#60;&#47;ul&#62;</mark> at the end.</li><br>
-</ol></p>
+</ol>
 
 <p>
 In summary, your html code should look something like this:
@@ -62,5 +62,5 @@ In summary, your html code should look something like this:
 &#60;li&#62;&#60;input id&#61;"accordion3;" type&#61;"checkbox"&#62;<br>
 &#60;label for&#61;"accordion3;"&#62;Insert Accordion Title here&#60;&#47;label&#62;&#60;div&#62;<br>
 &#60;p&#62;Insert content here&#60;&#47;p&#62;<br>&#60;&#47;div&#62;&#60;&#47;li&#62;<br><br>
-&#60;&#47;ul&#62;</mark>
+&#60;&#47;ul&#62;</mark></p>
 </div>
