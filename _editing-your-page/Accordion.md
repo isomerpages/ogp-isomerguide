@@ -6,7 +6,20 @@ description: ""
 <p>Accordions are collapsible blocks that are helpful in organizing plenty of content on a page. They will remain hidden until the user clicks onto them.
 <br>An example of an Accordion is shown below:</p>
 
-
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1;" type="checkbox">
+<label for="accordion1;">Accordion 1</label><div>
+<p>Insert content here</p>
+</div></li>
+<li><input id="accordion2;" type="checkbox">
+<label for="accordion2;">Accordion 2</label><div>
+<p>Insert content here</p>
+</div></li>
+<li><input id="accordion3;" type="checkbox">
+<label for="accordion3;">Accordion 3</label><div>
+<p>Insert content here</p>
+</div></li>
+</ul>
 
 <p><h2>How to add Accordion to my page?</h2>
 <ol>
