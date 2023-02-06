@@ -4,7 +4,7 @@ permalink: /Accordion/
 description: ""
 ---
 <p>Accordions are collapsible blocks that are helpful in organizing plenty of content on a page. They will remain hidden until the user clicks onto them.
-<br>An example of an Accordion is shown below:</p>
+<br><br>An example of an Accordion is shown below:</p>
 
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1;" type="checkbox">
