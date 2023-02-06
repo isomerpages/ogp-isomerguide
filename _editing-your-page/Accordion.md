@@ -10,7 +10,7 @@ description: ""
 
 <p><h2>How to add Accordion to my page?</h2>
 <ol>
-	<li><h5>Enabling Accordion on the schools site:</h5>
+<li><h5>Enabling Accordion on the schools site:</h5>
 Schools would need to first inform us to enable it on their site.  (If you have Accordion on other pages, it means that it is already enabled.)</li>
 
 <li><h5>Starting Accordion on the page</h5>
@@ -34,6 +34,7 @@ To close the Accordion item, insert the following tags:<br>
 <li><h5>Closing Accordion on the page</h5>
 Finally to close the Accordion code, insert <mark>&#60;&#47;ul&#62;</mark> at the end.</li>
 </ol></p>
+
 <p>
 In summary, your html code should look something like this:
 <br><br><mark>
