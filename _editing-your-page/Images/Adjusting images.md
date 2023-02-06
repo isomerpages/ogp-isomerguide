@@ -6,7 +6,7 @@ third_nav_title: Images
 ---
 ## Markdown
 
-<p>For images added using Markdown, we are unable to adjust the images after they have been uploaded. If you prefer to use Markdown, you will need to adjust the images to the correct size before uploading and adding them in.</p>
+<p>For images added using Markdown, we are unable to adjust the images sizes.</p>
 
 ## HTML
 
