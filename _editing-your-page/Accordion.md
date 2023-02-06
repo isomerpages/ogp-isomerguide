@@ -10,7 +10,7 @@ description: ""
 
 <p><h2>How to add Accordion to my page?</h2>
 <ol>
-	<li><strong><u>Enabling Accordion on the schools site:</strong></u><br><br>
+<li><strong><u>Enabling Accordion on the schools site</strong></u><br><br>
 Schools would need to first inform us to enable it on their site.  (If you have Accordion on other pages, it means that it is already enabled.)</li><br>
 
 <li><strong><u>Starting Accordion on the page</strong></u><br><br>
