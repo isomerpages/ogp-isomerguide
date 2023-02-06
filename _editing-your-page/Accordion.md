@@ -13,11 +13,12 @@ description: ""
 </div></li>
 <li><input id="accordion2;" type="checkbox">
 <label for="accordion2;">Accordion 2</label><div>
-<p>Or images like this:<br><img src="/images/chicken.jpg" style="width:50%"></p>
+<p>Or images like this:<br><center><img src="/images/chicken.jpg" style="width:50%"></center></p>
 </div></li>
 <li><input id="accordion3;" type="checkbox">
 <label for="accordion3;">Accordion 3</label><div>
-<p>Or even tables like this:<br><style type="text/css">
+<p>Or even tables like this:<br>
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -26,7 +27,7 @@ description: ""
 .tg .tg-vs2s{background-color:#9b9b9b;border-color:#000000;text-align:left;vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<center><table class="tg" style="width:50%">
 <thead>
   <tr>
     <th class="tg-vs2s">Header</th>
@@ -46,7 +47,7 @@ description: ""
     <td class="tg-73oq">Test</td>
   </tr>
 </tbody>
-</table></p>
+</table></center></p>
 </div></li>
 </ul>
 
