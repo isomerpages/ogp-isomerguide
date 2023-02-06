@@ -21,7 +21,7 @@ description: ""
 </div></li>
 </ul>
 
-<p><h2>How to add Accordion to my page?</h2>
+<div><h2>How to add Accordion to my page?</h2>
 <ol>
 <li><strong><u>Enabling Accordion on the schools site</strong></u><br><br>
 Schools would need to first inform us to enable it on their site.  (If you have Accordion on other pages, it means that it is already enabled.)</li><br>
@@ -62,4 +62,5 @@ In summary, your html code should look something like this:
 &#60;li&#62;&#60;input id&#61;"accordion3;" type&#61;"checkbox"&#62;<br>
 &#60;label for&#61;"accordion3;"&#62;Insert Accordion Title here&#60;&#47;label&#62;&#60;div&#62;<br>
 &#60;p&#62;Insert content here&#60;&#47;p&#62;<br>&#60;&#47;div&#62;&#60;&#47;li&#62;<br><br>
-&#60;&#47;ul&#62;</mark></p>
+&#60;&#47;ul&#62;</mark>
+</div>
