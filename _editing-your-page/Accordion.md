@@ -57,7 +57,7 @@ description: ""
 Schools would need to first inform us to enable it on their site. &#40;If you have Accordion on other pages, it means that it is already enabled.&#41;</li><br>
 
 <li><b><u>Starting Accordion on the page</u></b><br><br>
-Next, on the page that you will like to add Accordion, insert <mark>&#60;ul class&#61;"jekyllcodex_accordion"&#62;</mark> to start the accordion code.</li><br>
+Next, on the page that you will like to add Accordion, insert <mark>&#60;ul class&#61;"jekyllcodex_accordion"&#62;</mark> to start the accordion code. Remove the \ so that the code works!</li><br>
 
 <li><b><u>Starting Accordion Item</u></b><br><br>
 To start an Accordion item, insert the following where &#35; is a unique number.<br><mark>
