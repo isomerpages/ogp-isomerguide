@@ -83,14 +83,14 @@ Finally to close the Accordion code, insert <mark>&#60;&#47;ul&#62;</mark> at th
 In summary, your html code should look something like this:
 <br><br><mark>
 &#60;ul class&#61;"jekyllcodex_accordion"&#62;<br><br>
-&#60;li&#62;&#60;input id&#61;"accordion1;" type&#61;"checkbox"&#62;<br>
-&#60;label for&#61;"accordion1;"&#62;Insert Accordion Title here&#60;&#47;label&#62;&#60;div&#62;<br>
+&#60;li&#62;&#60;input id&#61;"accordion1" type&#61;"checkbox"&#62;<br>
+&#60;label for&#61;"accordion1"&#62;Insert Accordion Title here&#60;&#47;label&#62;&#60;div&#62;<br>
 &#60;p&#62;Insert content here&#60;&#47;p&#62;<br>&#60;&#47;div&#62;&#60;&#47;li&#62;<br><br>
-&#60;li&#62;&#60;input id&#61;"accordion2;" type&#61;"checkbox"&#62;<br>
-&#60;label for&#61;"accordion2;"&#62;Insert Accordion Title here&#60;&#47;label&#62;&#60;div&#62;<br>
+&#60;li&#62;&#60;input id&#61;"accordion2" type&#61;"checkbox"&#62;<br>
+&#60;label for&#61;"accordion2"&#62;Insert Accordion Title here&#60;&#47;label&#62;&#60;div&#62;<br>
 &#60;p&#62;Insert content here&#60;&#47;p&#62;<br>&#60;&#47;div&#62;&#60;&#47;li&#62;<br><br>
-&#60;li&#62;&#60;input id&#61;"accordion3;" type&#61;"checkbox"&#62;<br>
-&#60;label for&#61;"accordion3;"&#62;Insert Accordion Title here&#60;&#47;label&#62;&#60;div&#62;<br>
+&#60;li&#62;&#60;input id&#61;"accordion3" type&#61;"checkbox"&#62;<br>
+&#60;label for&#61;"accordion3"&#62;Insert Accordion Title here&#60;&#47;label&#62;&#60;div&#62;<br>
 &#60;p&#62;Insert content here&#60;&#47;p&#62;<br>&#60;&#47;div&#62;&#60;&#47;li&#62;<br><br>
 &#60;&#47;ul&#62;</mark></p>
 </div>
