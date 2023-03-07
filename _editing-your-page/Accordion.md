@@ -57,7 +57,7 @@ description: ""
 Schools would need to first inform us to enable it on their site. &#40;If you have Accordion on other pages, it means that it is already enabled.&#41;</li><br>
 
 <li><b><u>Starting Accordion on the page</u></b><br><br>
-Next, on the page that you will like to add Accordion, insert <mark>&#60;ul class&#61;"jekyllcodex_accordion"&#62;</mark> to start the accordion code.</li><br>
+Next, on the page that you will like to add Accordion, insert <mark>&#60;ul class&#61;"jekyllcodex_accordion"&#62;</mark> to start the accordion code. Remove the \ so that the code works!</li><br>
 
 <li><b><u>Starting Accordion Item</u></b><br><br>
 To start an Accordion item, insert the following where &#35; is a unique number.<br><mark>
@@ -83,14 +83,14 @@ Finally to close the Accordion code, insert <mark>&#60;&#47;ul&#62;</mark> at th
 In summary, your html code should look something like this:
 <br><br><mark>
 &#60;ul class&#61;"jekyllcodex_accordion"&#62;<br><br>
-&#60;li&#62;&#60;input id&#61;"accordion1;" type&#61;"checkbox"&#62;<br>
-&#60;label for&#61;"accordion1;"&#62;Insert Accordion Title here&#60;&#47;label&#62;&#60;div&#62;<br>
+&#60;li&#62;&#60;input id&#61;"accordion1" type&#61;"checkbox"&#62;<br>
+&#60;label for&#61;"accordion1"&#62;Insert Accordion Title here&#60;&#47;label&#62;&#60;div&#62;<br>
 &#60;p&#62;Insert content here&#60;&#47;p&#62;<br>&#60;&#47;div&#62;&#60;&#47;li&#62;<br><br>
-&#60;li&#62;&#60;input id&#61;"accordion2;" type&#61;"checkbox"&#62;<br>
-&#60;label for&#61;"accordion2;"&#62;Insert Accordion Title here&#60;&#47;label&#62;&#60;div&#62;<br>
+&#60;li&#62;&#60;input id&#61;"accordion2" type&#61;"checkbox"&#62;<br>
+&#60;label for&#61;"accordion2"&#62;Insert Accordion Title here&#60;&#47;label&#62;&#60;div&#62;<br>
 &#60;p&#62;Insert content here&#60;&#47;p&#62;<br>&#60;&#47;div&#62;&#60;&#47;li&#62;<br><br>
-&#60;li&#62;&#60;input id&#61;"accordion3;" type&#61;"checkbox"&#62;<br>
-&#60;label for&#61;"accordion3;"&#62;Insert Accordion Title here&#60;&#47;label&#62;&#60;div&#62;<br>
+&#60;li&#62;&#60;input id&#61;"accordion3" type&#61;"checkbox"&#62;<br>
+&#60;label for&#61;"accordion3"&#62;Insert Accordion Title here&#60;&#47;label&#62;&#60;div&#62;<br>
 &#60;p&#62;Insert content here&#60;&#47;p&#62;<br>&#60;&#47;div&#62;&#60;&#47;li&#62;<br><br>
 &#60;&#47;ul&#62;</mark></p>
 </div>
