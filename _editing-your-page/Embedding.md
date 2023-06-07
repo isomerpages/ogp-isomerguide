@@ -15,4 +15,6 @@ There are guides for doing so available online, which you can find below:
 
 ##### [Google Calendar](https://support.google.com/calendar/answer/41207?hl=en)
 
+##### [Google Docs, Sheets, Slides & Forms](https://support.google.com/docs/answer/183965?hl=en&co=GENIE.Platform%3DDesktop)
+
 ##### [Youtube](https://support.google.com/youtube/answer/171780?hl=en)
