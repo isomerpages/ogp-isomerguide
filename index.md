@@ -19,10 +19,4 @@ sections:
       description: What should I be expecting?
       button: Click Here
       url: /migrationjourney/
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
 ---
-
