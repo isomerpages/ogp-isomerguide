@@ -13,7 +13,6 @@ To incorporate embedded content, you need to generate an iframe code from the co
 
 There are guides for doing so available online, which you can find below:
 
-#### [Google Calendar](https://support.google.com/calendar/answer/41207?hl=en)
+##### [Google Calendar](https://support.google.com/calendar/answer/41207?hl=en)
 
-#### [Youtube](https://support.google.com/youtube/answer/171780?hl=en)
-
+##### [Youtube](https://support.google.com/youtube/answer/171780?hl=en)
