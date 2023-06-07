@@ -11,3 +11,9 @@ Content embedding enables you to seamlessly integrate content from external webs
 
 To incorporate embedded content, you need to generate an iframe code from the content that you wish to embed and then transfer it to the CMS editor.
 
+There are guides for doing so available online, which you can find below:
+
+#### [Google Calendar](https://support.google.com/calendar/answer/41207?hl=en)
+
+#### [Youtube](https://support.google.com/youtube/answer/171780?hl=en)
+
