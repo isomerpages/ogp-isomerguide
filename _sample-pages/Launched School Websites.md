@@ -3,7 +3,7 @@ title: Launched School Websites
 permalink: /sample-pages/launchedschools/
 description: ""
 ---
-Over 50 website has been launched with **Isomer**
+Over 300 website has been launched with **Isomer**
 
 You can also take a look at list of school website examples that are launched on Isomer:
 
@@ -18,5 +18,3 @@ You can also take a look at list of school website examples that are launched on
 ##### [Jurong Pioneer Junior College](https://www.jpjc.moe.edu.sg/)
 
 ##### [Yumin Primary School](https://yuminpri.moe.edu.sg/)
-
-
