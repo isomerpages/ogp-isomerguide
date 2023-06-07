@@ -2,13 +2,13 @@ collections:
   editing-your-page:
     output: true
     order:
-      - Embedding.md
       - Accordion.md
       - Images/.keep
       - Images/Adding Images.md
       - Images/Adjusting images.md
       - Images/Photo Slideshow.md
       - Creating hyperlinks.md
-      - Tables/Inserting Tables.md
       - Tables/.keep
+      - Tables/Inserting Tables.md
       - Tables/Organisational Chart & Site Map.md
+      - Embedding.md
