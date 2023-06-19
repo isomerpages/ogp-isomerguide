@@ -3,8 +3,8 @@ title: Github Issues (Common)
 permalink: /github-issues/common-issues/
 description: ""
 ---
-Common Issues:
-
+### Common Issues:
+### 
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1;" type="checkbox">
 <label for="accordion1;">I am unable to click create pull request button, it is greyed out, why is that so?</label><div>
@@ -23,7 +23,7 @@ Q: I am unable to merge pull request, why does it say merging is blocked?
 A: Please assign one of your site collaborator as a reviewer and get them to approve your request.</p>
 </div></li>
 <li><input id="accordion3;" type="checkbox">
-<label for="accordion3;">Accordion 3</label><div>
+<label for="accordion3;">I have approved the pull request, why is my live website not updated?</label><div>
 <p>Q: I have approved the pull request, why is my live website not updated?
 <br>
 A: Please check if you have clicked merge pull request button.:<br></p></div></li></ul>
