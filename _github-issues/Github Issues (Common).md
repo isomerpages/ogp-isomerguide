@@ -4,7 +4,7 @@ permalink: /github-issues/common-issues/
 description: ""
 ---
 ### Common Issues:
-### 
+
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1;" type="checkbox">
 <label for="accordion1;">I am unable to click create pull request button, it is greyed out, why is that so?</label><div>
