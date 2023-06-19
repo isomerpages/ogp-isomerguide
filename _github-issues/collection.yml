@@ -1,4 +1,5 @@
 collections:
   github-issues:
     output: true
-    order: []
+    order:
+      - Github Issues (Common).md
