@@ -20,7 +20,7 @@ A: Your email might be associated with existing an Github account or is being bl
 
 Q: I am unable to see my repo/site icon on the CMS, I remember seeing it the previous time I logged in.
 <br>
-A: Have you selected the correct login type?</p>
+A: Have you selected the correct login type? Please choose the correct login type based on your repo either Github or Email-Based.</p>
 </div></li>
 <li><input type="checkbox" id="accordion3;">
 <label for="accordion3;">I have approved the pull request, why is my live website not updated?</label><div>
