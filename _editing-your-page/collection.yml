@@ -2,6 +2,7 @@ collections:
   editing-your-page:
     output: true
     order:
+      - Removal of Grey Overlay.md
       - Accordion.md
       - Images/.keep
       - Images/Adding Images.md
