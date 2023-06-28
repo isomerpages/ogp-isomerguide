@@ -10,10 +10,10 @@ description: ""
 <label for="accordion1;">I want to add my colleagues to my CMS repo to perform edits</label><div>
 <p></p><p>Q: How do I add my colleagues in?
 <br>
-	A: Please submit a support ticket to <a href="mailto:support@github.com">Github Support</a> along with the <b>Github IDs (Not Email) </b> to us<br></p></div></li>
-	
-#### Email Based Login Repo
+	A: Please submit a support ticket to <a href="mailto:support@github.com">Github Support</a> along with the <b>Github IDs (Not Email) </b> to us<br></p></div></li></ul>
 
+<h4>Email Based Login Repo</h4>
+<ul class="jekyllcodex_accordion">
 <li><input id="accordion2;" type="checkbox">
 <label for="accordion2;">I want to add my colleagues to my CMS repo to perform edits</label><div>
 <p></p><p>Q: How do I add my colleagues in?
