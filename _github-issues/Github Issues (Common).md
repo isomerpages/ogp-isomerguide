@@ -28,3 +28,10 @@ A: Please assign one of your site collaborator as a reviewer and get them to app
 </p><p>Q: I have approved the pull request, why is my live website not updated?
 <br>
 A: Please check if you have clicked merge pull request button.<br></p></div></li></ul>
+
+<li><input id="accordion4;" type="checkbox">
+<label for="accordion4;">Invalid Two Factor Code despite entering correct recovery/SMS code</label><div>
+<p><img style="width:60%" src="/images/github-2fainvalid.png">
+</p><p>Q: I have entered the correct 2FA code, why is it saying invalid?
+<br>
+	A: Please submit a support ticket to <a href="mailto:support@github.com">Github Support</a> as Github are the ones managing the account credentials.<br></p></div></li>
