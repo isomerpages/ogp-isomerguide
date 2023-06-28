@@ -10,7 +10,7 @@ description: ""
 <label for="accordion1;">I am on Github Based Login and want to add my colleagues to my CMS repo to perform edits</label><div>
 <p><img src="/images/asc-githubbased.png" style="width:60%"></p><p>Q: How do I add my colleagues in?
 <br>
-	A: Please submit a support ticket to <a href="mailto:support@github.com">Github Support</a> along with the <b>Github IDs (Not Email) </b> to us<br></p></div></li></ul>
+	A: Please submit a support ticket to <a href="mailto:support@isomer.gov.sg">Isomer Support</a>  along with the <b>Github IDs (Not Email) </b> to us<br></p></div></li></ul>
 
 <h4>Email Based Login Repo</h4>
 <ul class="jekyllcodex_accordion">
