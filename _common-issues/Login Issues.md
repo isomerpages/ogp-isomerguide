@@ -12,7 +12,7 @@ description: ""
 
 Q: I am unable to verify my OTP, despite entering the correct OTP, why is that so?
 <br>
-A: Your email might be associated with existing Github account or is being blacklisted, please submit a support ticket to <a href="mailto:support@isomer.gov.sg">Isomer Support</a> </p>
+A: Your email might be associated with existing an Github account or is being blacklisted, please submit a support ticket to <a href="mailto:support@isomer.gov.sg">Isomer Support</a> </p>
 </div></li>
 <li><input type="checkbox" id="accordion2;">
 <label for="accordion2;">I am unable to merge pull request, why does it say merging is blocked?</label><div>
