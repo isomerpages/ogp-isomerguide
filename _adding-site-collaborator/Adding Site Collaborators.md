@@ -5,6 +5,7 @@ description: ""
 ---
 #### Github Based Login Repo
 
+<ul class="jekyllcodex_accordion">
 <li><input id="accordion1;" type="checkbox">
 <label for="accordion1;">I want to add my colleagues to my CMS repo to perform edits</label><div>
 <p></p><p>Q: How do I add my colleagues in?
@@ -28,4 +29,4 @@ Get them to do the following:
 		<i>It's normal; this is because our system needs to capture their email address(es)</i>
 		<li>Get them to update you, and you should be able to give them access right after</li>
 	</ol>
-<p></p></div></li>
+<p></p></div></li></ul>
