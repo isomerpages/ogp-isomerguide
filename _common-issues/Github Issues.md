@@ -3,7 +3,7 @@ title: Github Issues
 permalink: /common-issues/github/
 description: ""
 ---
-### Common Issues:
+### Github Issues:
 
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1;">
