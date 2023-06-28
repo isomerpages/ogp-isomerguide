@@ -15,12 +15,12 @@ Q: I am unable to verify my OTP, despite entering the correct OTP, why is that s
 A: Your email might be associated with existing an Github account or is being blacklisted, please submit a support ticket to <a href="mailto:support@isomer.gov.sg">Isomer Support</a> </p>
 </div></li>
 <li><input type="checkbox" id="accordion2;">
-<label for="accordion2;">I am unable to merge pull request, why does it say merging is blocked?</label><div>
-<p><img src="/images/pr-mergingisblocked.png" style="width:60%">
+<label for="accordion2;">I am unable to see my repo/site icon on the CMS.</label><div>
+<p><img src="/images/loginissue-notcollaborator.png" style="width:60%">
 
-Q: I am unable to merge pull request, why does it say merging is blocked?
+Q: I am unable to see my repo/site icon on the CMS, I remember seeing it the previous time I logged in.
 <br>
-A: Please assign one of your site collaborator as a reviewer and get them to approve your request.</p>
+A: Have you selected the correct login type?</p>
 </div></li>
 <li><input type="checkbox" id="accordion3;">
 <label for="accordion3;">I have approved the pull request, why is my live website not updated?</label><div>
