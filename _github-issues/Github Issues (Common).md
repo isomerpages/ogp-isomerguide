@@ -35,3 +35,9 @@ A: Please check if you have clicked merge pull request button.<br></p></div></li
 </p><p>Q: I have entered the correct 2FA code, why is it saying invalid?
 <br>
 	A: Please submit a support ticket to <a href="mailto:support@github.com">Github Support</a> as Github are the ones managing the account credentials.<br></p></div></li>
+	
+<li><input id="accordion5;" type="checkbox">
+<label for="accordion5;">Merge conflicts when performing pull request</label><div>
+<p></p><p>Q: Why does Github says that I have conflicting files when I am merging my PR?
+<br>
+	A: Please submit a support ticket to <a href="mailto:support@isomer.gov.sg">Isomer Support</a> to resolve the merge conflict for you.<br></p></div></li>
