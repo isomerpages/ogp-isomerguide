@@ -1,5 +1,5 @@
 collections:
-  github-issues:
+  common-issues:
     output: true
     order:
       - Common Issues.md
