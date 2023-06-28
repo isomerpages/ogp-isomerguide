@@ -24,6 +24,7 @@ A: Please assign one of your site collaborator as a reviewer and get them to app
 </div></li>
 <li><input id="accordion3;" type="checkbox">
 <label for="accordion3;">I have approved the pull request, why is my live website not updated?</label><div>
-<p>Q: I have approved the pull request, why is my live website not updated?
+<p><img style="width:60%" src="/images/pr-mergepullreq.png">
+</p><p>Q: I have approved the pull request, why is my live website not updated?
 <br>
-A: Please check if you have clicked merge pull request button.:<br></p></div></li></ul>
+A: Please check if you have clicked merge pull request button.<br></p></div></li></ul>
