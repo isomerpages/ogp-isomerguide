@@ -27,7 +27,7 @@ A: Please assign one of your site collaborator as a reviewer and get them to app
 <p><img style="width:60%" src="/images/pr-mergepullreq.png">
 </p><p>Q: I have approved the pull request, why is my live website not updated?
 <br>
-A: Please check if you have clicked merge pull request button.<br></p></div></li></ul>
+A: Please check if you have clicked merge pull request button.<br></p></div></li>
 
 <li><input id="accordion4;" type="checkbox">
 <label for="accordion4;">Invalid Two Factor Code despite entering correct recovery/SMS code</label><div>
@@ -40,4 +40,4 @@ A: Please check if you have clicked merge pull request button.<br></p></div></li
 <label for="accordion5;">Merge conflicts when performing pull request</label><div>
 <p></p><p>Q: Why does Github says that I have conflicting files when I am merging my PR?
 <br>
-	A: Please submit a support ticket to <a href="mailto:support@isomer.gov.sg">Isomer Support</a> to resolve the merge conflict for you.<br></p></div></li>
+	A: Please submit a support ticket to <a href="mailto:support@isomer.gov.sg">Isomer Support</a> to resolve the merge conflict for you.<br></p></div></li></ul>
