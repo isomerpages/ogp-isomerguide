@@ -1,5 +1,4 @@
 collections:
   adding-site-collaborator:
     output: true
-    order:
-      - Adding Site Collaborators.md
+    order: []
