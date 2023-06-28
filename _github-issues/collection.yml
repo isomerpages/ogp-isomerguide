@@ -2,4 +2,5 @@ collections:
   github-issues:
     output: true
     order:
+      - GH Common.md
       - Github Issues (Common).md
