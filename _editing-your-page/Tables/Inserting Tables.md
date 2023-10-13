@@ -40,7 +40,7 @@ To add additional columns, insert another "|" after the last of the row, like th
 <br>| Text     | Text     | Text     | Text     |
 </p>
 
-Do note that you will have to have the same number of "&#124;" for each row. 
+Do note that you will have to have the same number of "|" for each row. 
 
 ### Alignment
 
@@ -61,14 +61,18 @@ They will look like this:
 | Text 1B | Text 2B |  Text 3B |
 
 
-Do note that our Markdown tables come in a standard format; 
+Do note that our Markdown tables come in a standard format;&nbsp;
 *   there are dividers for rows
 *   no dividers for columns even though they are clearly spaced
 
 
-## HTML
-
-
 ## I am not familiar with Markdown or HTML, can I still add a table?
 
-There are some workarounds if you are untrained in html. There are also some free-to-use html table generator available online such as [https://www.tablesgenerator.com/](https://www.tablesgenerator.com/). Your teachers could paste the table content into the generator, customise the font size, text alignment and table borders etc, generate code and paste them into the CMS editor.
+There are some workarounds if you are untrained in Mardown or HTML. There are some free-to-use HTML table generator available online such as [https://www.tablesgenerator.com/](https://www.tablesgenerator.com/):
+
+![A screenshot of online HTML table generator](/images/tablegenerator.png)
+
+When using an online table generator, make sure that you check these two things:
+
+*   Make sure that "Do not generate CSS" is selected
+*   Copy HTML code using the "Copy to clipboard" button and paste the code directly onto your page
