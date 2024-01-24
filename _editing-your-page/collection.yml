@@ -1,0 +1,15 @@
+collections:
+  editing-your-page:
+    output: true
+    order:
+      - Removal of Grey Overlay.md
+      - Accordion.md
+      - Images/.keep
+      - Images/Adding Images.md
+      - Images/Adjusting images.md
+      - Images/Photo Slideshow.md
+      - Creating hyperlinks.md
+      - Tables/.keep
+      - Tables/Inserting Tables.md
+      - Tables/Organisational Chart & Site Map.md
+      - Embedding.md

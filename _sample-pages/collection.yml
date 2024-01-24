@@ -1,0 +1,7 @@
+collections:
+  sample-pages:
+    output: true
+    order:
+      - Launched School Websites.md
+      - Markdown.md
+      - HTML.md

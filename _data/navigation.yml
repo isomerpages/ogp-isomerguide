@@ -1,0 +1,12 @@
+logo: /images/isomer-logo.svg
+links:
+  - title: Migration Journey
+    url: /migrationjourney/
+  - title: Sample Pages
+    collection: sample-pages
+  - title: Isomer Components
+    collection: isomer-components
+  - title: Editing Your Page
+    collection: editing-your-page
+  - title: Common Issues
+    collection: common-issues

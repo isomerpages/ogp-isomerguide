@@ -1,0 +1,7 @@
+collections:
+  common-issues:
+    output: true
+    order:
+      - Adding Site Collaborators.md
+      - Login Issues.md
+      - Github Issues.md
